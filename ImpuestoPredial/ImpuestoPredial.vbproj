@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7693E8D4-A0BD-45C3-93C4-79CCA343291F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ImpuestoPredial.My.MyApplication</StartupObject>
+    <RootNamespace>ImpuestoPredial</RootNamespace>
+    <AssemblyName>ImpuestoPredial</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <ApplicationIcon>xochilt.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ImpuestoPredial.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ImpuestoPredial.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=5.9.0.0, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Archivos de programa\DotNetBar\Framework20\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="MySql.Data, Version=5.0.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BuscarFrm.Designer.vb">
+      <DependentUpon>BuscarFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CargarPrediosfrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CargarPrediosfrm.Designer.vb">
+      <DependentUpon>CargarPrediosfrm.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CobrarFrm.Designer.vb">
+      <DependentUpon>CobrarFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CobrarFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfigNotificFrm.Designer.vb">
+      <DependentUpon>ConfigNotificFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConfigNotificFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosInmueblefrm.Designer.vb">
+      <DependentUpon>DatosInmueblefrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DatosInmueblefrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosPrediosCls.vb" />
+    <Compile Include="Generalmdl.vb" />
+    <Compile Include="ImpuestoPredialFrm.Designer.vb">
+      <DependentUpon>ImpuestoPredialFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ImpuestoPredialFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NotificacionFrm.Designer.vb">
+      <DependentUpon>NotificacionFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NotificacionFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtroCobrofrm.Designer.vb">
+      <DependentUpon>OtroCobrofrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OtroCobrofrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteFrm.Designer.vb">
+      <DependentUpon>ReporteFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BuscarFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BuscarFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CargarPrediosfrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CargarPrediosfrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CobrarFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CobrarFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfigNotificFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ConfigNotificFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosInmueblefrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DatosInmueblefrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImpuestoPredialFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ImpuestoPredialFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotificacionFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>NotificacionFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtroCobrofrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OtroCobrofrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteRpt.rdlc" />
+    <EmbeddedResource Include="ReporteFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReporteFrm.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\DatosPrediosCls.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="xochilt.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Contribuyentes\Contribuyentes.vbproj">
+      <Project>{E41E2139-E2EA-4E5B-BC7C-B9320C45FA19}</Project>
+      <Name>Contribuyentes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ImprimirFactura\ImprimirFactura.vbproj">
+      <Project>{4D9D7C97-49B1-444A-A5B5-2753D490237F}</Project>
+      <Name>ImprimirFactura</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

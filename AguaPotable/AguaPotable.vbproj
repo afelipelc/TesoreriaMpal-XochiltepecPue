@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FFD12828-1A07-4173-8DFE-474D038CFFF5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>AguaPotable.My.MyApplication</StartupObject>
+    <RootNamespace>AguaPotable</RootNamespace>
+    <AssemblyName>AguaPotable</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <ApplicationIcon>xochilt.ico</ApplicationIcon>
+    <ManifestCertificateThumbprint>D549975B57635D5E88B2903CBABCEB6DBB6398E8</ManifestCertificateThumbprint>
+    <ManifestKeyFile>AguaPotable_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>false</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>AguaPotable.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>AguaPotable.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=5.9.0.0, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Archivos de programa\DotNetBar\Framework20\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="MySql.Data, Version=5.0.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Tesoreria Municipal\bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AgregaPeriodofrm.Designer.vb">
+      <DependentUpon>AgregaPeriodofrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AgregaPeriodofrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AguaPotablefrm.Designer.vb">
+      <DependentUpon>AguaPotablefrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AguaPotablefrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuscarTomafrm.Designer.vb">
+      <DependentUpon>BuscarTomafrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BuscarTomafrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CargarAguafrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CargarAguafrm.Designer.vb">
+      <DependentUpon>CargarAguafrm.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CobrarAguafrm.Designer.vb">
+      <DependentUpon>CobrarAguafrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CobrarAguafrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfigNotificFrm.Designer.vb">
+      <DependentUpon>ConfigNotificFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConfigNotificFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CostoRegistrofrm.Designer.vb">
+      <DependentUpon>CostoRegistrofrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CostoRegistrofrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosReporteCls.vb" />
+    <Compile Include="DetalleTarifasfrm.Designer.vb">
+      <DependentUpon>DetalleTarifasfrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DetalleTarifasfrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Generalmdl.vb" />
+    <Compile Include="MuestraTarifasfrm.Designer.vb">
+      <DependentUpon>MuestraTarifasfrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MuestraTarifasfrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Multafrm.Designer.vb">
+      <DependentUpon>Multafrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Multafrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NotificacionFrm.Designer.vb">
+      <DependentUpon>NotificacionFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NotificacionFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevaCuotafrm.Designer.vb">
+      <DependentUpon>NuevaCuotafrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NuevaCuotafrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevaToma.Designer.vb">
+      <DependentUpon>NuevaToma.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NuevaToma.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteFrm.Designer.vb">
+      <DependentUpon>ReporteFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tarifasfrm.Designer.vb">
+      <DependentUpon>Tarifasfrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tarifasfrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AgregaPeriodofrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AgregaPeriodofrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AguaPotablefrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AguaPotablefrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuscarTomafrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BuscarTomafrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CargarAguafrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CargarAguafrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CobrarAguafrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CobrarAguafrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfigNotificFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ConfigNotificFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CostoRegistrofrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CostoRegistrofrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetalleTarifasfrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DetalleTarifasfrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MuestraTarifasfrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MuestraTarifasfrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Multafrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Multafrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotificacionFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>NotificacionFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevaCuotafrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>NuevaCuotafrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevaToma.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>NuevaToma.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteRpt.rdlc" />
+    <EmbeddedResource Include="ReporteFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReporteFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tarifasfrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Tarifasfrm.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="AguaPotable_TemporaryKey.pfx" />
+    <BaseApplicationManifest Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\DatosReporteCls.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Contribuyentes\Contribuyentes.vbproj">
+      <Project>{E41E2139-E2EA-4E5B-BC7C-B9320C45FA19}</Project>
+      <Name>Contribuyentes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ImprimirFactura\ImprimirFactura.vbproj">
+      <Project>{4D9D7C97-49B1-444A-A5B5-2753D490237F}</Project>
+      <Name>ImprimirFactura</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="xochilt.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

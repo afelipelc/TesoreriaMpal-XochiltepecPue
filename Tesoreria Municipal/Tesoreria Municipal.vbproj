@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C394995F-A604-4D5F-9F4A-CAC2EB57E1D1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Tesoreria_Municipal.My.MyApplication</StartupObject>
+    <RootNamespace>Tesoreria_Municipal</RootNamespace>
+    <AssemblyName>Tesoreria Municipal</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <ApplicationIcon>xochilt.ico</ApplicationIcon>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>771C9494D0F6BFA7F53C71C207C6A71D73009CE3</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Tesoreria Municipal_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>false</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Tesoreria Municipal.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Tesoreria Municipal.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=5.9.0.0, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Archivos de programa\DotNetBar\Framework20\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=5.0.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Bienvenidopsc.Designer.vb">
+      <DependentUpon>Bienvenidopsc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bienvenidopsc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BorrarDatosFrm.Designer.vb">
+      <DependentUpon>BorrarDatosFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BorrarDatosFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configfrm.Designer.vb">
+      <DependentUpon>Configfrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Configfrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlPanelFrm.Designer.vb">
+      <DependentUpon>ControlPanelFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ControlPanelFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Generalmdl.vb" />
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="UsuariosFrm.Designer.vb">
+      <DependentUpon>UsuariosFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsuariosFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Bienvenidopsc.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Bienvenidopsc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BorrarDatosFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BorrarDatosFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configfrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Configfrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlPanelFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ControlPanelFrm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsuariosFrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UsuariosFrm.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reportes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <BaseApplicationManifest Include="My Project\app.manifest" />
+    <None Include="Resources\contribuyente.png" />
+    <None Include="Tesoreria Municipal_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AguaPotable\AguaPotable.vbproj">
+      <Project>{FFD12828-1A07-4173-8DFE-474D038CFFF5}</Project>
+      <Name>AguaPotable</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Contribuyentes\Contribuyentes.vbproj">
+      <Project>{E41E2139-E2EA-4E5B-BC7C-B9320C45FA19}</Project>
+      <Name>Contribuyentes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Depositos\Depositos.vbproj">
+      <Project>{DFB4430A-0309-4216-949C-F64A38C6E649}</Project>
+      <Name>Depositos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EgresosIngP\EgresosIngP.vbproj">
+      <Project>{959B4753-950A-4587-9922-5AF3536810F1}</Project>
+      <Name>EgresosIngP</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Facturas\Facturas.vbproj">
+      <Project>{C56B20BE-CCD2-4FEE-9748-45251600CA5B}</Project>
+      <Name>Facturas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ImpuestoPredial\ImpuestoPredial.vbproj">
+      <Project>{7693E8D4-A0BD-45C3-93C4-79CCA343291F}</Project>
+      <Name>ImpuestoPredial</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OtrosIngresos\OtrosIngresos.vbproj">
+      <Project>{07CD2ADF-527E-4F71-A43A-FCEDFF8E6A7B}</Project>
+      <Name>OtrosIngresos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RegistroCivil\RegistroCivil.vbproj">
+      <Project>{0D6DBA48-9629-45FB-AEB2-5DC5EE156DD2}</Project>
+      <Name>RegistroCivil</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReporteGeneral\ReporteGeneral.vbproj">
+      <Project>{FE2469B7-4FE0-47A5-9099-CEEDB93B40AD}</Project>
+      <Name>ReporteGeneral</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Respaldos\Respaldos.vbproj">
+      <Project>{5C775EFC-94F1-4CF3-9449-A7C838625466}</Project>
+      <Name>Respaldos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RetroVolteo\RetroVolteo.vbproj">
+      <Project>{FE2EBDBB-30AD-476B-89B3-132ED1D017DC}</Project>
+      <Name>RetroVolteo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Tortilleria\Tortilleria.vbproj">
+      <Project>{779C9531-DC0D-475E-90B0-36F7943B254D}</Project>
+      <Name>Tortilleria</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="xochilt.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,2538 @@
+080613 16:46:37  InnoDB: Started; log sequence number 0 43655
+080613 16:46:38 [Note] C:\Descargas\wosportable\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080613 16:47:36 [Note] C:\Descargas\wosportable\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+080613 16:47:37  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080613 16:47:38  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 650361.
+InnoDB: Doing recovery: scanned up to log sequence number 0 650361
+080613 16:47:38  InnoDB: Started; log sequence number 0 650361
+080613 16:47:38 [Note] C:\Descargas\wosportable\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080613 16:47:46 [Note] C:\Descargas\wosportable\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+080613 16:47:46  InnoDB: Starting shutdown...
+080613 16:48:52  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080613 16:48:52  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 650361.
+InnoDB: Doing recovery: scanned up to log sequence number 0 650361
+080613 16:48:52  InnoDB: Started; log sequence number 0 650361
+080613 16:48:52 [Note] C:\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080616 10:53:47  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080616 12:17:49  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080616 12:18:21  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080616 12:18:58  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080616 12:20:28  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080616 12:21:20  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080616 12:31:36  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080616 12:40:37  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080616 12:43:30  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080616 12:43:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080616 12:44:32  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080616 12:44:32  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1247708.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1247708
+080616 12:44:32  InnoDB: Started; log sequence number 0 1247708
+080616 12:44:32 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080616 12:48:11  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080616 12:51:38  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080616 12:51:38  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1249422.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1249422
+080616 12:51:38  InnoDB: Started; log sequence number 0 1249422
+080616 12:51:38 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080616 13:01:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080616 13:07:49  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080616 13:09:48  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080616 13:09:48  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1258526.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1258526
+080616 13:09:49  InnoDB: Started; log sequence number 0 1258526
+080616 13:09:49 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080616 13:17:50  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080616 13:22:02  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080616 13:32:41  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080616 13:41:27  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080616 13:52:47  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080616 13:52:47  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1261659.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1261659
+080616 13:52:47  InnoDB: Started; log sequence number 0 1261659
+080616 13:52:47 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080616 17:30:12  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080616 17:30:13  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1262185.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1262185
+080616 17:30:13  InnoDB: Started; log sequence number 0 1262185
+080616 17:30:13 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080616 19:03:22  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080616 19:05:01  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080616 19:12:57  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080617 11:17:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080617 11:18:24  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080617 11:20:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080617 11:21:35  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080618 13:51:43  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080618 13:51:43  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1282297.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1282297
+080618 13:51:43  InnoDB: Started; log sequence number 0 1282297
+080618 13:51:44 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080618 19:49:37  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080618 19:49:37  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1282868.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1282868
+080618 19:49:38  InnoDB: Started; log sequence number 0 1282868
+080618 19:49:38 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080618 19:53:55  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080619 12:10:47  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080619 12:10:47  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1286052.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1286052
+080619 12:10:47  InnoDB: Started; log sequence number 0 1286052
+080619 12:10:47 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080619 12:53:06  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080619 13:29:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080619 13:49:32  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080619 13:58:09  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080619 18:31:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080619 18:42:40  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080619 18:50:04  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080619 18:52:02  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080619 18:52:03  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1321886.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1321886
+080619 18:52:03  InnoDB: Started; log sequence number 0 1321886
+080619 18:52:03 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080619 19:49:48  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080620 19:05:27  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080620 19:05:28  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1323771.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1323771
+080620 19:05:28  InnoDB: Started; log sequence number 0 1323771
+080620 19:05:28 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080620 20:02:28  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080623  9:13:11  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080623  9:13:11  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1346787.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1346787
+080623  9:13:12  InnoDB: Started; log sequence number 0 1346787
+080623  9:13:12 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080623 12:59:39  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080623 13:08:18  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080623 13:16:05  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080623 13:19:43  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080624 12:10:04  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080624 12:10:05  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1487573.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1487573
+080624 12:10:05  InnoDB: Started; log sequence number 0 1487573
+080624 12:10:06 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080624 12:16:02  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080624 12:19:30  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080624 12:21:23  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080624 12:57:19  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080624 12:58:15  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080624 14:01:04  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080624 14:02:20  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080624 17:48:40  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080624 17:51:44  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080624 17:51:45  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1512946.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1512946
+080624 17:51:45  InnoDB: Started; log sequence number 0 1512946
+080624 17:51:45 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080624 17:55:18  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080624 17:55:18  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1513001.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1513001
+080624 17:55:18  InnoDB: Started; log sequence number 0 1513001
+080624 17:55:18 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080624 17:57:31  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080624 17:57:32  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1513011.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1513011
+080624 17:57:32  InnoDB: Started; log sequence number 0 1513011
+080624 17:57:32 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080624 18:00:03  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080624 18:00:04  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1513021.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1513021
+080624 18:00:04  InnoDB: Started; log sequence number 0 1513021
+080624 18:00:04 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080624 18:01:16  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080624 18:01:17  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1513031.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1513031
+080624 18:01:17  InnoDB: Started; log sequence number 0 1513031
+080624 18:01:17 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080624 18:03:19  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080624 18:03:20  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1513041.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1513041
+080624 18:03:20  InnoDB: Started; log sequence number 0 1513041
+080624 18:03:20 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080624 18:37:44  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080624 18:37:44  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1513051.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1513051
+080624 18:37:44  InnoDB: Started; log sequence number 0 1513051
+080624 18:37:44 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080624 19:08:24  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080624 19:09:15  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080624 19:10:04  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080624 19:10:04  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1556751.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1562854
+080624 19:10:04  InnoDB: Starting an apply batch of log records to the database...
+InnoDB: Progress in percents: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+InnoDB: Apply batch completed
+080624 19:10:05  InnoDB: Started; log sequence number 0 1562854
+080624 19:10:05 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080624 19:12:47  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080624 19:12:47  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1569475.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1569475
+080624 19:12:48  InnoDB: Started; log sequence number 0 1569475
+080624 19:12:48 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080625 10:56:19  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080625 10:56:19  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1569485.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1569485
+080625 10:56:19  InnoDB: Started; log sequence number 0 1569485
+080625 10:56:19 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080625 10:58:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080625 10:59:06  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080625 10:59:06  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 1582568.
+InnoDB: Doing recovery: scanned up to log sequence number 0 1589227
+080625 10:59:06  InnoDB: Starting an apply batch of log records to the database...
+InnoDB: Progress in percents: 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+InnoDB: Apply batch completed
+080625 10:59:06  InnoDB: Started; log sequence number 0 1589227
+080625 10:59:07 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080625 11:03:14  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080625 11:04:49  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080625 11:10:14  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080625 11:14:11  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080625 11:16:11  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080625 11:18:42  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080625 11:23:50  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080625 11:38:46  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080625 11:43:48  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080625 11:47:51  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080625 12:19:21  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080625 19:18:45  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080626 13:08:21  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080626 13:20:04  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080626 13:27:11  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080626 13:27:42  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080626 13:37:22  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080626 18:45:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080626 18:48:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080626 18:51:15  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080626 19:03:57  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080626 19:06:12  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080626 19:07:24  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080626 19:08:25  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080627  9:25:15  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080627  9:25:15  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 2090839.
+InnoDB: Doing recovery: scanned up to log sequence number 0 2090839
+080627  9:25:16  InnoDB: Started; log sequence number 0 2090839
+080627  9:25:16 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080628 10:42:30  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080628 11:29:17  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080628 11:36:17  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080628 11:55:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080628 13:58:34  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080628 13:58:34  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 2115695.
+InnoDB: Doing recovery: scanned up to log sequence number 0 2115695
+080628 13:58:34  InnoDB: Started; log sequence number 0 2115695
+080628 13:58:34 [Note] c:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080628 14:07:25  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080628 14:07:25  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 2115734.
+InnoDB: Doing recovery: scanned up to log sequence number 0 2115734
+080628 14:07:25  InnoDB: Started; log sequence number 0 2115734
+080628 14:07:25 [Note] c:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080628 14:07:55 [Note] c:\mysql\bin\mysqld.exe: Normal shutdown
+
+080628 14:07:55  InnoDB: Starting shutdown...
+080628 14:07:57  InnoDB: Shutdown completed; log sequence number 0 2115734
+080628 14:07:57 [Note] c:\mysql\bin\mysqld.exe: Shutdown complete
+
+080630 11:34:42  InnoDB: Started; log sequence number 0 2115734
+080630 11:34:43 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080630 11:46:47  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080630 12:13:54  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080630 12:16:30  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080630 14:10:52  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080630 14:29:18  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080630 14:30:03  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080630 15:04:42  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080630 15:12:38  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080630 15:13:39  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080701 10:23:01  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080701 10:23:01  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 2141820.
+InnoDB: Doing recovery: scanned up to log sequence number 0 2141820
+080701 10:23:01  InnoDB: Started; log sequence number 0 2141820
+080701 10:23:02 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080701 10:23:15 [Note] C:\mysql\bin\mysqld.exe: Normal shutdown
+
+080701 10:23:15  InnoDB: Starting shutdown...
+080701 10:23:18  InnoDB: Shutdown completed; log sequence number 0 2141830
+080701 10:23:18 [Note] C:\mysql\bin\mysqld.exe: Shutdown complete
+
+080701 10:55:50  InnoDB: Started; log sequence number 0 2141830
+080701 10:55:50 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080701 11:26:38  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080701 11:47:45  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080701 11:58:22  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080701 12:05:11  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080701 12:30:24  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080701 12:36:16  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080701 13:12:49  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080701 13:18:54  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080701 14:25:22  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080701 14:25:22  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 2478303.
+InnoDB: Doing recovery: scanned up to log sequence number 0 2478303
+080701 14:25:22  InnoDB: Started; log sequence number 0 2478303
+080701 14:25:23 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080701 14:26:25 [Note] C:\mysql\bin\mysqld.exe: Normal shutdown
+
+080701 14:26:25  InnoDB: Starting shutdown...
+080701 14:26:29  InnoDB: Shutdown completed; log sequence number 0 2484072
+080701 14:26:29 [Note] C:\mysql\bin\mysqld.exe: Shutdown complete
+
+080701 14:27:04  InnoDB: Started; log sequence number 0 2484072
+080701 14:27:04 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080701 14:30:13 [Note] C:\mysql\bin\mysqld.exe: Normal shutdown
+
+080701 14:30:13  InnoDB: Starting shutdown...
+080701 14:30:16  InnoDB: Shutdown completed; log sequence number 0 2662361
+080701 14:30:16 [Note] C:\mysql\bin\mysqld.exe: Shutdown complete
+
+080701 14:30:28  InnoDB: Started; log sequence number 0 2662361
+080701 14:30:28 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080701 14:32:22 [Note] C:\mysql\bin\mysqld.exe: Normal shutdown
+
+080701 14:32:22  InnoDB: Starting shutdown...
+080701 14:32:27  InnoDB: Shutdown completed; log sequence number 0 2825468
+080701 14:32:27 [Note] C:\mysql\bin\mysqld.exe: Shutdown complete
+
+080701 14:52:39  InnoDB: Started; log sequence number 0 2825468
+080701 14:52:40 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080701 14:52:52 [Note] C:\mysql\bin\mysqld.exe: Normal shutdown
+
+080701 14:52:52  InnoDB: Starting shutdown...
+080701 14:52:54  InnoDB: Shutdown completed; log sequence number 0 2825478
+080701 14:52:54 [Note] C:\mysql\bin\mysqld.exe: Shutdown complete
+
+080701 14:55:57  InnoDB: Started; log sequence number 0 2825478
+080701 14:55:57 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080701 14:56:05 [Note] C:\mysql\bin\mysqld.exe: Normal shutdown
+
+080701 14:56:05  InnoDB: Starting shutdown...
+080701 14:56:08  InnoDB: Shutdown completed; log sequence number 0 2825488
+080701 14:56:08 [Note] C:\mysql\bin\mysqld.exe: Shutdown complete
+
+080701 14:58:52  InnoDB: Started; log sequence number 0 2825488
+080701 14:58:52 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080701 14:59:03 [Note] C:\mysql\bin\mysqld.exe: Normal shutdown
+
+080701 14:59:03  InnoDB: Starting shutdown...
+080701 14:59:06  InnoDB: Shutdown completed; log sequence number 0 2825498
+080701 14:59:06 [Note] C:\mysql\bin\mysqld.exe: Shutdown complete
+
+080701 14:59:54  InnoDB: Started; log sequence number 0 2825498
+080701 14:59:54 [Note] C:\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080701 15:01:06 [Note] C:\mysql\bin\mysqld.exe: Normal shutdown
+
+080701 15:01:08  InnoDB: Starting shutdown...
+080701 15:01:12  InnoDB: Shutdown completed; log sequence number 0 2947798
+080701 15:01:12 [Note] C:\mysql\bin\mysqld.exe: Shutdown complete
+
+080702  9:40:59  InnoDB: Started; log sequence number 0 2947798
+080702  9:41:01 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080702  9:41:29 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080702  9:41:29  InnoDB: Starting shutdown...
+080702  9:41:31  InnoDB: Shutdown completed; log sequence number 0 2953835
+080702  9:41:31 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080702 11:57:02  InnoDB: Started; log sequence number 0 2953835
+080702 11:57:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080703  9:49:55  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080703  9:49:55  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 3088211.
+InnoDB: Doing recovery: scanned up to log sequence number 0 3088211
+080703  9:49:55  InnoDB: Started; log sequence number 0 3088211
+080703  9:49:55 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080703  9:51:57 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080703  9:51:57  InnoDB: Starting shutdown...
+080703  9:52:01  InnoDB: Shutdown completed; log sequence number 0 3096115
+080703  9:52:01 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080703  9:55:17  InnoDB: Started; log sequence number 0 3096115
+080703  9:55:17 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080703  9:58:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080703  9:58:33  InnoDB: Starting shutdown...
+080703  9:58:35  InnoDB: Shutdown completed; log sequence number 0 3096780
+080703  9:58:35 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080715  9:28:04  InnoDB: Started; log sequence number 0 3096780
+080715  9:28:05 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080715  9:36:27 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080715  9:36:29 [Warning] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Forcing close of thread 2  user: 'root'
+
+080715  9:36:29  InnoDB: Starting shutdown...
+080715  9:36:32  InnoDB: Shutdown completed; log sequence number 0 3102412
+080715  9:36:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080721 17:34:17  InnoDB: Started; log sequence number 0 3102412
+080721 17:34:18 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080811 11:36:15  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080811 11:36:16  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 3108953.
+InnoDB: Doing recovery: scanned up to log sequence number 0 3108953
+080811 11:36:16  InnoDB: Started; log sequence number 0 3108953
+080811 11:36:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080811 11:37:59 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080811 11:37:59  InnoDB: Starting shutdown...
+080811 11:38:02  InnoDB: Shutdown completed; log sequence number 0 3677085
+080811 11:38:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080811 11:39:39  InnoDB: Started; log sequence number 0 3677085
+080811 11:39:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080811 11:40:19 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080811 11:40:19  InnoDB: Starting shutdown...
+080811 11:40:21  InnoDB: Shutdown completed; log sequence number 0 3677095
+080811 11:40:21 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080811 11:41:26  InnoDB: Started; log sequence number 0 3677095
+080811 11:41:26 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080811 11:42:04 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080811 11:42:04  InnoDB: Starting shutdown...
+080811 11:42:07  InnoDB: Shutdown completed; log sequence number 0 3677105
+080811 11:42:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080811 11:49:16  InnoDB: Started; log sequence number 0 3677105
+080811 11:49:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080811 11:50:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080811 11:50:07  InnoDB: Starting shutdown...
+080811 11:50:11  InnoDB: Shutdown completed; log sequence number 0 3677115
+080811 11:50:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080811 11:59:53  InnoDB: Started; log sequence number 0 3677115
+080811 11:59:53 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080811 12:01:29 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080811 12:01:29  InnoDB: Starting shutdown...
+080811 12:01:32  InnoDB: Shutdown completed; log sequence number 0 3677125
+080811 12:01:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080811 12:02:59  InnoDB: Started; log sequence number 0 3677125
+080811 12:02:59 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080811 12:03:30 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080811 12:03:30  InnoDB: Starting shutdown...
+080811 12:03:34  InnoDB: Shutdown completed; log sequence number 0 3677135
+080811 12:03:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080811 12:05:14  InnoDB: Started; log sequence number 0 3677135
+080811 12:05:15 [Note] C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080811 12:15:35  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080811 12:16:28 [Note] C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\mysql\bin\mysqld.exe: Normal shutdown
+
+080811 12:16:28  InnoDB: Starting shutdown...
+080811 12:16:31  InnoDB: Shutdown completed; log sequence number 0 3677145
+080811 12:16:31 [Note] C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\mysql\bin\mysqld.exe: Shutdown complete
+
+080811 12:18:47  InnoDB: Started; log sequence number 0 3677145
+080811 12:18:47 [Note] C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080811 12:21:34  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080811 12:22:06 [Note] C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\mysql\bin\mysqld.exe: Normal shutdown
+
+080811 12:22:06  InnoDB: Starting shutdown...
+080811 12:22:09  InnoDB: Shutdown completed; log sequence number 0 3677155
+080811 12:22:09 [Note] C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\mysql\bin\mysqld.exe: Shutdown complete
+
+080811 12:22:36  InnoDB: Started; log sequence number 0 3677155
+080811 12:22:36 [Note] C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080811 12:25:53  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080811 12:28:39 [Note] C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\mysql\bin\mysqld.exe: Normal shutdown
+
+080811 12:28:39  InnoDB: Starting shutdown...
+080811 12:28:42  InnoDB: Shutdown completed; log sequence number 0 3678458
+080811 12:28:42 [Note] C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\mysql\bin\mysqld.exe: Shutdown complete
+
+080811 12:39:46  InnoDB: Started; log sequence number 0 3678458
+080811 12:39:46 [Note] C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080811 12:40:58 [Note] C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\mysql\bin\mysqld.exe: Normal shutdown
+
+080811 12:40:58  InnoDB: Starting shutdown...
+080811 12:41:02  InnoDB: Shutdown completed; log sequence number 0 3678468
+080811 12:41:02 [Note] C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\mysql\bin\mysqld.exe: Shutdown complete
+
+080814 13:58:41  InnoDB: Started; log sequence number 0 3678468
+080814 13:58:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080814 14:00:09 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080814 14:00:09  InnoDB: Starting shutdown...
+080814 14:00:12  InnoDB: Shutdown completed; log sequence number 0 3678478
+080814 14:00:12 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080814 19:22:56  InnoDB: Started; log sequence number 0 3678478
+080814 19:22:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080814 19:27:32  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080814 19:29:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080814 19:29:14  InnoDB: Starting shutdown...
+080814 19:29:16  InnoDB: Shutdown completed; log sequence number 0 3682718
+080814 19:29:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080819 13:05:23  InnoDB: Started; log sequence number 0 3682718
+080819 13:05:25 [Note] C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080819 13:06:36  InnoDB: Started; log sequence number 0 3682718
+080819 13:06:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080819 13:19:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080819 13:19:33  InnoDB: Starting shutdown...
+080819 13:19:36  InnoDB: Shutdown completed; log sequence number 0 3695303
+080819 13:19:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080819 13:21:04  InnoDB: Started; log sequence number 0 3695303
+080819 13:21:04 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080819 13:24:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080819 13:24:39  InnoDB: Starting shutdown...
+080819 13:24:42  InnoDB: Shutdown completed; log sequence number 0 3695313
+080819 13:24:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080819 13:24:51  InnoDB: Started; log sequence number 0 3695313
+080819 13:24:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080819 13:24:57 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080819 13:24:57  InnoDB: Starting shutdown...
+080819 13:24:59  InnoDB: Shutdown completed; log sequence number 0 3695323
+080819 13:24:59 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080819 13:25:03  InnoDB: Started; log sequence number 0 3695323
+080819 13:25:03 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080819 13:28:50 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080819 13:28:50  InnoDB: Starting shutdown...
+080819 13:28:54  InnoDB: Shutdown completed; log sequence number 0 3695333
+080819 13:28:54 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080822 19:48:57  InnoDB: Started; log sequence number 0 3695333
+080822 19:48:57 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080822 19:49:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080822 19:49:51  InnoDB: Starting shutdown...
+080822 19:49:53  InnoDB: Shutdown completed; log sequence number 0 3725589
+080822 19:49:53 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080822 19:49:55  InnoDB: Started; log sequence number 0 3725589
+080822 19:49:55 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+InnoDB: Error: log file .\ib_logfile0 is of different size 0 10485760 bytes
+InnoDB: than specified in the .cnf file 0 5242880 bytes!
+090106 18:37:55 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090106 18:37:58 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:37:58 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:38:02 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:38:02 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\aguapotable.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\aguapotable.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cajachicares.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cajachicares.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\calles.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\calles.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobroagua.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobroagua.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobromaquina.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobromaquina.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobropredios.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobropredios.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobroregcivil.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobroregcivil.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configagua.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configagua.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configmaquina.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configmaquina.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configregcivil.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configregcivil.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configuracion.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configuracion.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\contribuyente.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\contribuyente.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cuentas.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cuentas.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\depositosip.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\depositosip.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detallesregcivil.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detallesregcivil.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detarifagua.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detarifagua.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobagua.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobagua.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobromaq.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobromaq.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobropredios.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobropredios.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\egresosch.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\egresosch.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\egresosip.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\egresosip.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\factcancel.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\factcancel.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingpropios.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingpropios.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingpropiosres.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingpropiosres.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingresosch.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingresosch.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\inmuebles.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\inmuebles.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\localidades.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\localidades.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\otrosing.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\otrosing.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\tarifasagua.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\tarifasagua.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\tortilleria.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\tortilleria.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ubicrusticos.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ubicrusticos.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\aguapotable.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\aguapotable.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cajachicares.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cajachicares.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\calles.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\calles.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobroagua.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobroagua.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobromaquina.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobromaquina.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobropredios.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobropredios.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobroregcivil.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobroregcivil.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configagua.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configagua.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configmaquina.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configmaquina.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configregcivil.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configregcivil.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configuracion.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configuracion.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\contribuyente.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\contribuyente.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cuentas.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cuentas.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\depositosip.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\depositosip.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detallesregcivil.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detallesregcivil.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detarifagua.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detarifagua.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobagua.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobagua.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobromaq.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobromaq.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobropredios.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobropredios.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\egresosch.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\egresosch.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\egresosip.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\egresosip.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\factcancel.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\factcancel.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingpropios.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingpropios.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingpropiosres.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingpropiosres.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingresosch.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingresosch.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\inmuebles.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\inmuebles.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\localidades.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\localidades.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\otrosing.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\otrosing.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\tarifasagua.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\tarifasagua.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\tortilleria.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\tortilleria.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ubicrusticos.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ubicrusticos.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:39:01 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\aguapotable.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\aguapotable.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cajachicares.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cajachicares.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\calles.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\calles.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobroagua.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobroagua.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobromaquina.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobromaquina.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobropredios.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobropredios.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobroregcivil.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobroregcivil.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configagua.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configagua.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configmaquina.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configmaquina.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configregcivil.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configregcivil.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configuracion.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configuracion.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\contribuyente.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\contribuyente.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cuentas.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cuentas.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\depositosip.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\depositosip.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detallesregcivil.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detallesregcivil.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detarifagua.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detarifagua.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobagua.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobagua.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobromaq.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobromaq.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobropredios.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobropredios.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\egresosch.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\egresosch.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\egresosip.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\egresosip.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\factcancel.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\factcancel.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingpropios.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingpropios.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingpropiosres.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingpropiosres.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingresosch.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingresosch.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\inmuebles.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\inmuebles.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\localidades.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\localidades.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\otrosing.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\otrosing.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\tarifasagua.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\tarifasagua.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\tortilleria.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\tortilleria.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ubicrusticos.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ubicrusticos.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\aguapotable.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\aguapotable.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cajachicares.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cajachicares.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\calles.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\calles.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobroagua.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobroagua.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobromaquina.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobromaquina.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobropredios.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobropredios.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobroregcivil.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cobroregcivil.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configagua.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configagua.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configmaquina.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configmaquina.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configregcivil.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configregcivil.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configuracion.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\configuracion.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\contribuyente.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\contribuyente.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cuentas.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\cuentas.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\depositosip.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\depositosip.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detallesregcivil.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detallesregcivil.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detarifagua.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detarifagua.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobagua.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobagua.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobromaq.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobromaq.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobropredios.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\detcobropredios.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\egresosch.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\egresosch.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\egresosip.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\egresosip.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\factcancel.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\factcancel.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingpropios.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingpropios.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingpropiosres.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingpropiosres.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingresosch.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ingresosch.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\inmuebles.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\inmuebles.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\localidades.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\localidades.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\otrosing.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\otrosing.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\tarifasagua.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\tarifasagua.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\tortilleria.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\tortilleria.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ubicrusticos.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\ubicrusticos.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:40:14 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:40:25 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090106 18:40:25 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+InnoDB: Error: log file .\ib_logfile0 is of different size 0 10485760 bytes
+InnoDB: than specified in the .cnf file 0 5242880 bytes!
+090106 18:40:54 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090106 18:40:59 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:40:59 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:41:03 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:41:03 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:42:49  InnoDB: Started; log sequence number 0 5486550
+090106 18:42:49 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090106 18:43:05 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090106 18:43:05  InnoDB: Starting shutdown...
+090106 18:43:07  InnoDB: Shutdown completed; log sequence number 0 5486560
+090106 18:43:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090107  9:44:33  InnoDB: Started; log sequence number 0 5486560
+090107  9:44:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090107 10:46:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090107 10:46:39  InnoDB: Starting shutdown...
+090107 10:46:42  InnoDB: Shutdown completed; log sequence number 0 5486570
+090107 10:46:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090108 18:18:39  InnoDB: Started; log sequence number 0 5486570
+090108 18:18:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090108 19:24:54  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+090124  9:58:50  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090124  9:58:51  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5488091.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5488091
+090124  9:58:51  InnoDB: Started; log sequence number 0 5488091
+090124  9:58:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090124 10:14:55 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090124 10:14:55  InnoDB: Starting shutdown...
+090124 10:14:58  InnoDB: Shutdown completed; log sequence number 0 5488101
+090124 10:14:58 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090129 12:17:39  InnoDB: Started; log sequence number 0 5488101
+090129 12:17:40 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090129 12:58:30 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090129 12:58:30  InnoDB: Starting shutdown...
+090129 12:58:33  InnoDB: Shutdown completed; log sequence number 0 6453913
+090129 12:58:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090206 11:14:37  InnoDB: Started; log sequence number 0 6453913
+090206 11:14:37 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090206 12:16:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090206 12:16:52  InnoDB: Starting shutdown...
+090206 12:16:53  InnoDB: Shutdown completed; log sequence number 0 9254927
+090206 12:16:53 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090209  9:54:07  InnoDB: Started; log sequence number 0 9254927
+090209  9:54:10 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090209 10:41:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090209 10:41:07  InnoDB: Starting shutdown...
+090209 10:41:09  InnoDB: Shutdown completed; log sequence number 0 9254937
+090209 10:41:10 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090209 10:41:18  InnoDB: Started; log sequence number 0 9254937
+090209 10:41:18 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090209 13:59:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090209 13:59:36  InnoDB: Starting shutdown...
+090209 13:59:38  InnoDB: Shutdown completed; log sequence number 0 9254947
+090209 13:59:38 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090212  9:46:29  InnoDB: Started; log sequence number 0 9254947
+090212  9:46:29 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090213  9:31:51  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+090213 10:57:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090213 10:57:13  InnoDB: Starting shutdown...
+090213 10:57:17  InnoDB: Shutdown completed; log sequence number 0 10258386
+090213 10:57:17 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090213 11:11:31  InnoDB: Started; log sequence number 0 10258386
+090213 11:11:31 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090214  9:49:41  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+090214 10:39:22 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090214 10:39:22  InnoDB: Starting shutdown...
+090214 10:39:26  InnoDB: Shutdown completed; log sequence number 0 11281640
+090214 10:39:26 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090214 11:41:23  InnoDB: Started; log sequence number 0 11281640
+090214 11:41:24 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090214 15:09:54 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090214 15:09:54  InnoDB: Starting shutdown...
+090214 15:09:57  InnoDB: Shutdown completed; log sequence number 0 11281650
+090214 15:09:57 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090221  9:45:32  InnoDB: Started; log sequence number 0 11281650
+090221  9:45:35 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090221  9:47:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090221  9:47:07  InnoDB: Starting shutdown...
+090221  9:47:08  InnoDB: Shutdown completed; log sequence number 0 11282483
+090221  9:47:08 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090225  9:46:40  InnoDB: Started; log sequence number 0 11282483
+090225  9:46:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090225 14:30:15 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090225 14:30:15  InnoDB: Starting shutdown...
+090225 14:30:16  InnoDB: Shutdown completed; log sequence number 0 11282493
+090225 14:30:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090226 18:33:43  InnoDB: Started; log sequence number 0 11282493
+090226 18:33:45 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090226 18:54:15 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090226 18:54:15  InnoDB: Starting shutdown...
+090226 18:54:19  InnoDB: Shutdown completed; log sequence number 0 11283755
+090226 18:54:19 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090226 18:54:27  InnoDB: Started; log sequence number 0 11283755
+090226 18:54:27 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090227 10:34:35  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+090227 11:56:49  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+090227 12:04:08 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090227 12:04:08  InnoDB: Starting shutdown...
+090227 12:04:11  InnoDB: Shutdown completed; log sequence number 0 11287725
+090227 12:04:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090227 19:19:48  InnoDB: Started; log sequence number 0 11287725
+090227 19:19:49 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090227 19:19:57 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090227 19:19:57  InnoDB: Starting shutdown...
+090227 19:19:58  InnoDB: Shutdown completed; log sequence number 0 11287774
+090227 19:19:58 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090302 10:12:52  InnoDB: Started; log sequence number 0 11287774
+090302 10:12:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090302 11:40:58 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090302 11:40:58  InnoDB: Starting shutdown...
+090302 11:41:00  InnoDB: Shutdown completed; log sequence number 0 11287784
+090302 11:41:00 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090304  9:36:09  InnoDB: Started; log sequence number 0 11287784
+090304  9:36:09 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090304 14:04:20 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090304 14:04:20  InnoDB: Starting shutdown...
+090304 14:04:23  InnoDB: Shutdown completed; log sequence number 0 11287794
+090304 14:04:23 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090307 10:39:05  InnoDB: Started; log sequence number 0 11287794
+090307 10:39:05 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090307 10:49:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090307 10:49:51  InnoDB: Starting shutdown...
+090307 10:49:55  InnoDB: Shutdown completed; log sequence number 0 11287804
+090307 10:49:55 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090309  9:31:19  InnoDB: Started; log sequence number 0 11287804
+090309  9:31:19 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090309 11:15:41 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090309 11:15:41  InnoDB: Starting shutdown...
+090309 11:15:44  InnoDB: Shutdown completed; log sequence number 0 11287814
+090309 11:15:44 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090310 12:33:56  InnoDB: Started; log sequence number 0 11287814
+Can't start server: Bind on TCP/IP port: Invalid argument
+090310 12:33:56 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+090310 12:33:56 [ERROR] Aborting
+
+090310 12:33:56  InnoDB: Starting shutdown...
+090310 12:33:58  InnoDB: Shutdown completed; log sequence number 0 11287814
+090310 12:33:58 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090310 12:34:12  InnoDB: Started; log sequence number 0 11287814
+Can't start server: Bind on TCP/IP port: Invalid argument
+090310 12:34:12 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+090310 12:34:12 [ERROR] Aborting
+
+090310 12:34:12  InnoDB: Starting shutdown...
+090310 12:34:14  InnoDB: Shutdown completed; log sequence number 0 11287814
+090310 12:34:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090310 12:34:32  InnoDB: Started; log sequence number 0 11287814
+Can't start server: Bind on TCP/IP port: Invalid argument
+090310 12:34:32 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+090310 12:34:32 [ERROR] Aborting
+
+090310 12:34:32  InnoDB: Starting shutdown...
+090310 12:34:34  InnoDB: Shutdown completed; log sequence number 0 11287814
+090310 12:34:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090310 12:35:00  InnoDB: Started; log sequence number 0 11287814
+Can't start server: Bind on TCP/IP port: Invalid argument
+090310 12:35:00 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+090310 12:35:00 [ERROR] Aborting
+
+090310 12:35:00  InnoDB: Starting shutdown...
+090310 12:35:02  InnoDB: Shutdown completed; log sequence number 0 11287814
+090310 12:35:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090310 12:35:31  InnoDB: Started; log sequence number 0 11287814
+Can't start server: Bind on TCP/IP port: Invalid argument
+090310 12:35:31 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+090310 12:35:31 [ERROR] Aborting
+
+090310 12:35:31  InnoDB: Starting shutdown...
+090310 12:35:33  InnoDB: Shutdown completed; log sequence number 0 11287814
+090310 12:35:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090310 12:35:47  InnoDB: Started; log sequence number 0 11287814
+Can't start server: Bind on TCP/IP port: Invalid argument
+090310 12:35:47 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+090310 12:35:47 [ERROR] Aborting
+
+090310 12:35:47  InnoDB: Starting shutdown...
+090310 12:35:49  InnoDB: Shutdown completed; log sequence number 0 11287814
+090310 12:35:49 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090310 12:36:29  InnoDB: Started; log sequence number 0 11287814
+Can't start server: Bind on TCP/IP port: Invalid argument
+090310 12:36:29 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+090310 12:36:29 [ERROR] Aborting
+
+090310 12:36:29  InnoDB: Starting shutdown...
+090310 12:36:31  InnoDB: Shutdown completed; log sequence number 0 11287814
+090310 12:36:31 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090310 12:36:55  InnoDB: Started; log sequence number 0 11287814
+Can't start server: Bind on TCP/IP port: Invalid argument
+090310 12:36:55 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+090310 12:36:55 [ERROR] Aborting
+
+090310 12:36:55  InnoDB: Starting shutdown...
+090310 12:36:57  InnoDB: Shutdown completed; log sequence number 0 11287814
+090310 12:36:57 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090310 12:37:30  InnoDB: Started; log sequence number 0 11287814
+Can't start server: Bind on TCP/IP port: Invalid argument
+090310 12:37:30 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+090310 12:37:30 [ERROR] Aborting
+
+090310 12:37:30  InnoDB: Starting shutdown...
+090310 12:37:32  InnoDB: Shutdown completed; log sequence number 0 11287814
+090310 12:37:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090310 12:38:17  InnoDB: Started; log sequence number 0 11287814
+Can't start server: Bind on TCP/IP port: Invalid argument
+090310 12:38:17 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+090310 12:38:17 [ERROR] Aborting
+
+090310 12:38:17  InnoDB: Starting shutdown...
+090310 12:38:20  InnoDB: Shutdown completed; log sequence number 0 11287814
+090310 12:38:20 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090310 12:40:11  InnoDB: Started; log sequence number 0 11287814
+Can't start server: Bind on TCP/IP port: Invalid argument
+090310 12:40:11 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+090310 12:40:11 [ERROR] Aborting
+
+090310 12:40:11  InnoDB: Starting shutdown...
+090310 12:40:13  InnoDB: Shutdown completed; log sequence number 0 11287814
+090310 12:40:13 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090310 12:40:28  InnoDB: Started; log sequence number 0 11287814
+Can't start server: Bind on TCP/IP port: Invalid argument
+090310 12:40:28 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+090310 12:40:28 [ERROR] Aborting
+
+090310 12:40:28  InnoDB: Starting shutdown...
+090310 12:40:30  InnoDB: Shutdown completed; log sequence number 0 11287814
+090310 12:40:30 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090310 12:40:40  InnoDB: Started; log sequence number 0 11287814
+Can't start server: Bind on TCP/IP port: Invalid argument
+090310 12:40:40 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+090310 12:40:40 [ERROR] Aborting
+
+090310 12:40:40  InnoDB: Starting shutdown...
+090310 12:40:42  InnoDB: Shutdown completed; log sequence number 0 11287814
+090310 12:40:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090310 12:43:30  InnoDB: Started; log sequence number 0 11287814
+Can't start server: Bind on TCP/IP port: Invalid argument
+090310 12:43:30 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+090310 12:43:30 [ERROR] Aborting
+
+090310 12:43:30  InnoDB: Starting shutdown...
+090310 12:43:33  InnoDB: Shutdown completed; log sequence number 0 11287814
+090310 12:43:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090310 12:46:02  InnoDB: Started; log sequence number 0 11287814
+090310 12:46:03 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090310 12:47:37 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090310 12:47:37  InnoDB: Starting shutdown...
+090310 12:47:41  InnoDB: Shutdown completed; log sequence number 0 11288447
+090310 12:47:41 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090317 12:22:32  InnoDB: Started; log sequence number 0 11288447
+090317 12:22:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090317 12:22:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090317 12:22:42  InnoDB: Starting shutdown...
+090317 12:22:44  InnoDB: Shutdown completed; log sequence number 0 11288457
+090317 12:22:44 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090319 10:24:32  InnoDB: Started; log sequence number 0 11288457
+090319 10:24:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090319 10:39:06 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090319 10:39:06  InnoDB: Starting shutdown...
+090319 10:39:08  InnoDB: Shutdown completed; log sequence number 0 11288467
+090319 10:39:08 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090320 17:12:30  InnoDB: Started; log sequence number 0 11288467
+090320 17:12:30 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090320 17:36:06  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090320 17:36:06  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 11289463.
+InnoDB: Doing recovery: scanned up to log sequence number 0 11289463
+090320 17:36:06  InnoDB: Started; log sequence number 0 11289463
+090320 17:36:06 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090320 17:58:31  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+090320 18:28:40 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090320 18:28:40  InnoDB: Starting shutdown...
+090320 18:28:44  InnoDB: Shutdown completed; log sequence number 0 11301597
+090320 18:28:44 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090324 12:07:33  InnoDB: Started; log sequence number 0 11301597
+090324 12:07:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090324 12:29:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090324 12:29:32  InnoDB: Starting shutdown...
+090324 12:29:35  InnoDB: Shutdown completed; log sequence number 0 12414019
+090324 12:29:35 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090413 12:12:21  InnoDB: Started; log sequence number 0 12414019
+090413 12:12:23 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090413 12:32:04 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090413 12:32:04  InnoDB: Starting shutdown...
+090413 12:32:05  InnoDB: Shutdown completed; log sequence number 0 12414029
+090413 12:32:05 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090421 11:51:29  InnoDB: Started; log sequence number 0 12414029
+090421 11:51:31 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090421 12:22:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090421 12:22:33  InnoDB: Starting shutdown...
+090421 12:22:36  InnoDB: Shutdown completed; log sequence number 0 12414039
+090421 12:22:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090421 12:45:31  InnoDB: Started; log sequence number 0 12414039
+090421 12:45:31 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090421 13:17:31 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090421 13:17:31  InnoDB: Starting shutdown...
+090421 13:17:33  InnoDB: Shutdown completed; log sequence number 0 12414049
+090421 13:17:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090423 17:34:08  InnoDB: Started; log sequence number 0 12414049
+090423 17:34:10 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090423 17:53:43 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090423 17:53:43  InnoDB: Starting shutdown...
+090423 17:53:46  InnoDB: Shutdown completed; log sequence number 0 12414286
+090423 17:53:46 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090430 12:48:15  InnoDB: Started; log sequence number 0 12414286
+090430 12:48:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090430 12:49:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090430 12:49:07  InnoDB: Starting shutdown...
+090430 12:49:09  InnoDB: Shutdown completed; log sequence number 0 12414296
+090430 12:49:10 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090506 10:25:47  InnoDB: Started; log sequence number 0 12414296
+090506 10:25:47 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090506 10:28:47 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090506 10:28:47  InnoDB: Starting shutdown...
+090506 10:28:51  InnoDB: Shutdown completed; log sequence number 0 13642480
+090506 10:28:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090506 16:26:07  InnoDB: Started; log sequence number 0 13642480
+090506 16:26:09 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090507 13:50:23  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090507 13:50:23  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 13642865.
+InnoDB: Doing recovery: scanned up to log sequence number 0 13642865
+090507 13:50:24  InnoDB: Started; log sequence number 0 13642865
+090507 13:50:24 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090507 13:52:20 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090507 13:52:20  InnoDB: Starting shutdown...
+090507 13:52:24  InnoDB: Shutdown completed; log sequence number 0 13644601
+090507 13:52:24 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090509 13:51:24  InnoDB: Started; log sequence number 0 13644601
+090509 13:51:24 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090509 13:56:29 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090509 13:56:29  InnoDB: Starting shutdown...
+090509 13:56:32  InnoDB: Shutdown completed; log sequence number 0 13644611
+090509 13:56:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090515  9:31:42  InnoDB: Started; log sequence number 0 13644611
+090515  9:31:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090515  9:33:12 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090515  9:33:12  InnoDB: Starting shutdown...
+090515  9:33:14  InnoDB: Shutdown completed; log sequence number 0 13644621
+090515  9:33:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090515  9:55:59  InnoDB: Started; log sequence number 0 13644621
+090515  9:55:59 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090515  9:58:31 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090515  9:58:31  InnoDB: Starting shutdown...
+090515  9:58:35  InnoDB: Shutdown completed; log sequence number 0 13644631
+090515  9:58:35 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090515 12:03:44  InnoDB: Started; log sequence number 0 13644631
+090515 12:03:44 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090515 13:29:37 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090515 13:29:37  InnoDB: Starting shutdown...
+090515 13:29:40  InnoDB: Shutdown completed; log sequence number 0 13644641
+090515 13:29:40 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090521 10:47:44  InnoDB: Started; log sequence number 0 13644641
+090521 10:47:44 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090521 10:57:01  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+090521 10:59:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090521 10:59:11  InnoDB: Starting shutdown...
+090521 10:59:14  InnoDB: Shutdown completed; log sequence number 0 13644651
+090521 10:59:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090521 10:59:22  InnoDB: Started; log sequence number 0 13644651
+090521 10:59:22 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090521 11:56:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090521 11:56:32  InnoDB: Starting shutdown...
+090521 11:56:34  InnoDB: Shutdown completed; log sequence number 0 13644661
+090521 11:56:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090523 11:20:13  InnoDB: Started; log sequence number 0 13644661
+090523 11:20:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090523 11:20:45 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090523 11:20:45  InnoDB: Starting shutdown...
+090523 11:20:48  InnoDB: Shutdown completed; log sequence number 0 13644671
+090523 11:20:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090609 11:32:00  InnoDB: Started; log sequence number 0 13644671
+090609 11:32:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090609 14:16:10 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090609 14:16:10  InnoDB: Starting shutdown...
+090609 14:16:12  InnoDB: Shutdown completed; log sequence number 0 15026108
+090609 14:16:12 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090609 15:48:04  InnoDB: Started; log sequence number 0 15026108
+090609 15:48:06 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090609 16:53:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090609 16:53:11  InnoDB: Starting shutdown...
+090609 16:53:15  InnoDB: Shutdown completed; log sequence number 0 15026118
+090609 16:53:15 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090618 10:03:15  InnoDB: Started; log sequence number 0 15026118
+090618 10:03:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090618 10:04:18 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090618 10:04:18  InnoDB: Starting shutdown...
+090618 10:04:21  InnoDB: Shutdown completed; log sequence number 0 15026128
+090618 10:04:21 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090701 18:14:06  InnoDB: Started; log sequence number 0 15026128
+090701 18:14:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090701 18:29:17 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090701 18:29:17  InnoDB: Starting shutdown...
+090701 18:29:19  InnoDB: Shutdown completed; log sequence number 0 15026138
+090701 18:29:19 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090714 11:22:43  InnoDB: Started; log sequence number 0 15026138
+090714 11:22:46 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090714 11:22:53  InnoDB: Started; log sequence number 0 15026138
+090714 11:22:53 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090714 11:26:40 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090714 11:26:40  InnoDB: Starting shutdown...
+090714 11:26:43  InnoDB: Shutdown completed; log sequence number 0 15026513
+090714 11:26:43 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090714 12:52:08  InnoDB: Started; log sequence number 0 15026513
+090714 12:52:09 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090714 12:56:10 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090714 12:56:11  InnoDB: Starting shutdown...
+090714 12:56:15  InnoDB: Shutdown completed; log sequence number 0 15027742
+090714 12:56:15 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080714 13:14:12  InnoDB: Started; log sequence number 0 15027742
+080714 13:14:12 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080714 13:15:17 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080714 13:15:17  InnoDB: Starting shutdown...
+080714 13:15:20  InnoDB: Shutdown completed; log sequence number 0 15027752
+080714 13:15:20 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090720 16:47:43  InnoDB: Started; log sequence number 0 15027752
+090720 16:47:44 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090720 17:21:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090720 17:21:42  InnoDB: Starting shutdown...
+090720 17:21:44  InnoDB: Shutdown completed; log sequence number 0 16480425
+090720 17:21:44 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090725  9:48:08  InnoDB: Started; log sequence number 0 16480425
+090725  9:48:08 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090725  9:51:29 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090725  9:51:29  InnoDB: Starting shutdown...
+090725  9:51:32  InnoDB: Shutdown completed; log sequence number 0 16480435
+090725  9:51:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090730  9:33:55  InnoDB: Started; log sequence number 0 16480435
+090730  9:33:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090730  9:37:53 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090730  9:37:53  InnoDB: Starting shutdown...
+090730  9:37:58  InnoDB: Shutdown completed; log sequence number 0 16480445
+090730  9:37:58 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090730  9:40:48  InnoDB: Started; log sequence number 0 16480445
+090730  9:40:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090730  9:43:01 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090730  9:43:01  InnoDB: Starting shutdown...
+090730  9:43:04  InnoDB: Shutdown completed; log sequence number 0 16481728
+090730  9:43:04 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090804 18:06:20  InnoDB: Started; log sequence number 0 16481728
+090804 18:06:21 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090804 18:11:26 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090804 18:11:26  InnoDB: Starting shutdown...
+090804 18:11:28  InnoDB: Shutdown completed; log sequence number 0 16481738
+090804 18:11:28 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090821 16:30:08  InnoDB: Started; log sequence number 0 16481738
+090821 16:30:10 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090821 16:31:55 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090821 16:31:55  InnoDB: Starting shutdown...
+090821 16:31:58  InnoDB: Shutdown completed; log sequence number 0 16481748
+090821 16:31:58 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090831 11:46:32  InnoDB: Started; log sequence number 0 16481748
+090831 11:46:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090831 11:48:49 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090831 11:48:49  InnoDB: Starting shutdown...
+090831 11:48:50  InnoDB: Shutdown completed; log sequence number 0 16482664
+090831 11:48:50 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090909 13:22:50  InnoDB: Started; log sequence number 0 16482664
+090909 13:22:50 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090909 13:23:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090909 13:23:02  InnoDB: Starting shutdown...
+090909 13:23:05  InnoDB: Shutdown completed; log sequence number 0 16482674
+090909 13:23:05 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+091021 12:55:24  InnoDB: Started; log sequence number 0 16482674
+091021 12:55:24 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+091021 14:08:45 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+091021 14:08:45  InnoDB: Starting shutdown...
+091021 14:08:46  InnoDB: Shutdown completed; log sequence number 0 18053479
+091021 14:08:46 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+091021 19:33:13  InnoDB: Started; log sequence number 0 18053479
+091021 19:33:13 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+091021 19:49:17 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+091021 19:49:17  InnoDB: Starting shutdown...
+091021 19:49:21  InnoDB: Shutdown completed; log sequence number 0 18053489
+091021 19:49:21 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+091024 11:26:47  InnoDB: Started; log sequence number 0 18053489
+091024 11:26:47 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+091024 11:50:09 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+091024 11:50:09  InnoDB: Starting shutdown...
+091024 11:50:11  InnoDB: Shutdown completed; log sequence number 0 18053499
+091024 11:50:11 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+091107 13:48:30  InnoDB: Started; log sequence number 0 18053499
+091107 13:48:31 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+091107 13:49:24 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+091107 13:49:24  InnoDB: Starting shutdown...
+091107 13:49:27  InnoDB: Shutdown completed; log sequence number 0 18053509
+091107 13:49:27 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+091111 12:23:25  InnoDB: Started; log sequence number 0 18053509
+091111 12:23:25 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+091111 12:36:03 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+091111 12:36:05  InnoDB: Starting shutdown...
+091111 12:36:07  InnoDB: Shutdown completed; log sequence number 0 19676216
+091111 12:36:07 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+091111 12:37:55  InnoDB: Started; log sequence number 0 19676216
+Can't start server: Bind on TCP/IP port: Invalid argument
+091111 12:37:55 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+091111 12:37:55 [ERROR] Aborting
+
+091111 12:37:55  InnoDB: Starting shutdown...
+091111 12:37:57  InnoDB: Shutdown completed; log sequence number 0 19676216
+091111 12:37:57 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+091111 12:39:46  InnoDB: Started; log sequence number 0 19676216
+091111 12:39:46 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+091111 12:41:11 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+091111 12:41:13 [Warning] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Forcing close of thread 1  user: 'root'
+
+091111 12:41:13  InnoDB: Starting shutdown...
+091111 12:41:16  InnoDB: Shutdown completed; log sequence number 0 19676730
+091111 12:41:16 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+091117 12:41:16  InnoDB: Started; log sequence number 0 19676730
+091117 12:41:16 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+091117 12:43:02 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+091117 12:43:02  InnoDB: Starting shutdown...
+091117 12:43:06  InnoDB: Shutdown completed; log sequence number 0 19676740
+091117 12:43:06 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+091217 18:31:32  InnoDB: Started; log sequence number 0 19676740
+091217 18:31:32 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+091217 18:32:29 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+091217 18:32:29  InnoDB: Starting shutdown...
+091217 18:32:32  InnoDB: Shutdown completed; log sequence number 0 19676750
+091217 18:32:32 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+091218 13:59:40  InnoDB: Started; log sequence number 0 19676750
+091218 13:59:40 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+091218 14:04:33 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+091218 14:04:33  InnoDB: Starting shutdown...
+091218 14:04:36  InnoDB: Shutdown completed; log sequence number 0 19676760
+091218 14:04:36 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100115 10:48:11  InnoDB: Started; log sequence number 0 19676760
+100115 10:48:12 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100115 10:53:57 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100115 10:53:57  InnoDB: Starting shutdown...
+100115 10:54:00  InnoDB: Shutdown completed; log sequence number 0 19809894
+100115 10:54:00 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100115 11:11:02  InnoDB: Started; log sequence number 0 19809894
+100115 11:11:02 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100115 11:12:15 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100115 11:12:15  InnoDB: Starting shutdown...
+100115 11:12:18  InnoDB: Shutdown completed; log sequence number 0 19809904
+100115 11:12:18 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100119  9:42:04  InnoDB: Started; log sequence number 0 19809904
+100119  9:42:05 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100119  9:43:43 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100119  9:43:43  InnoDB: Starting shutdown...
+100119  9:43:47  InnoDB: Shutdown completed; log sequence number 0 19810281
+100119  9:43:47 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100119 10:02:12  InnoDB: Started; log sequence number 0 19810281
+100119 10:02:12 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100119 10:28:17 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100119 10:28:17  InnoDB: Starting shutdown...
+100119 10:28:20  InnoDB: Shutdown completed; log sequence number 0 19810291
+100119 10:28:20 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100119 13:28:15  InnoDB: Started; log sequence number 0 19810291
+100119 13:28:15 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100119 14:17:37 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100119 14:17:37  InnoDB: Starting shutdown...
+100119 14:17:39  InnoDB: Shutdown completed; log sequence number 0 21531345
+100119 14:17:39 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100119 16:53:57  InnoDB: Started; log sequence number 0 21531345
+100119 16:53:57 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100119 18:15:33 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100119 18:15:33  InnoDB: Starting shutdown...
+100119 18:15:35  InnoDB: Shutdown completed; log sequence number 0 21531355
+100119 18:15:35 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100120 17:41:30  InnoDB: Started; log sequence number 0 21531355
+100120 17:41:30 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100120 17:49:14 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100120 17:49:14  InnoDB: Starting shutdown...
+100120 17:49:17  InnoDB: Shutdown completed; log sequence number 0 21531365
+100120 17:49:17 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100128  9:46:19  InnoDB: Started; log sequence number 0 21531365
+100128  9:46:19 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100128  9:54:45 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100128  9:54:45  InnoDB: Starting shutdown...
+100128  9:54:49  InnoDB: Shutdown completed; log sequence number 0 21531375
+100128  9:54:49 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100129 10:16:33  InnoDB: Started; log sequence number 0 21531375
+100129 10:16:34 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100129 10:36:41  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100129 10:36:42  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 21531385.
+InnoDB: Doing recovery: scanned up to log sequence number 0 21531385
+100129 10:36:42  InnoDB: Started; log sequence number 0 21531385
+100129 10:36:42 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100129 11:02:45 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100129 11:02:45  InnoDB: Starting shutdown...
+100129 11:02:48  InnoDB: Shutdown completed; log sequence number 0 21533296
+100129 11:02:48 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100202 10:56:15  InnoDB: Started; log sequence number 0 21533296
+100202 10:56:15 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100203 15:43:47  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100203 15:43:48  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 21534577.
+InnoDB: Doing recovery: scanned up to log sequence number 0 21534577
+100203 15:43:48  InnoDB: Started; log sequence number 0 21534577
+100203 15:43:48 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100203 15:48:12 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100203 15:48:12  InnoDB: Starting shutdown...
+100203 15:48:16  InnoDB: Shutdown completed; log sequence number 0 23269784
+100203 15:48:16 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100205  9:56:37  InnoDB: Started; log sequence number 0 23269784
+100205  9:56:37 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100205  9:57:43 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100205  9:57:43  InnoDB: Starting shutdown...
+100205  9:57:45  InnoDB: Shutdown completed; log sequence number 0 23269794
+100205  9:57:45 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100209 17:16:54  InnoDB: Started; log sequence number 0 23269794
+100209 17:16:54 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100209 17:17:04 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100209 17:17:04  InnoDB: Starting shutdown...
+100209 17:17:06  InnoDB: Shutdown completed; log sequence number 0 23269804
+100209 17:17:06 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100209 17:19:15  InnoDB: Started; log sequence number 0 23269804
+100209 17:19:15 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100209 17:19:23 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100209 17:19:23  InnoDB: Starting shutdown...
+100209 17:19:25  InnoDB: Shutdown completed; log sequence number 0 23269814
+100209 17:19:25 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100216  9:58:51  InnoDB: Started; log sequence number 0 23269814
+100216  9:58:52 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100216 10:02:45 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100216 10:02:45  InnoDB: Starting shutdown...
+100216 10:02:48  InnoDB: Shutdown completed; log sequence number 0 25043560
+100216 10:02:48 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100216 10:31:23  InnoDB: Started; log sequence number 0 25043560
+100216 10:31:23 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100216 10:38:11 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100216 10:38:11  InnoDB: Starting shutdown...
+100216 10:38:14  InnoDB: Shutdown completed; log sequence number 0 25045858
+100216 10:38:14 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100216 10:38:28  InnoDB: Started; log sequence number 0 25045858
+100216 10:38:28 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100216 17:37:49  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100216 17:37:49  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 25048441.
+InnoDB: Doing recovery: scanned up to log sequence number 0 25048441
+100216 17:37:50  InnoDB: Started; log sequence number 0 25048441
+100216 17:37:50 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100216 18:18:31 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100216 18:18:31  InnoDB: Starting shutdown...
+100216 18:18:35  InnoDB: Shutdown completed; log sequence number 0 25050393
+100216 18:18:35 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100217 12:53:56  InnoDB: Started; log sequence number 0 25050393
+100217 12:53:56 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100217 12:54:38 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100217 12:54:38  InnoDB: Starting shutdown...
+100217 12:54:42  InnoDB: Shutdown completed; log sequence number 0 25050403
+100217 12:54:42 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100217 13:09:07  InnoDB: Started; log sequence number 0 25050403
+100217 13:09:08 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100217 13:12:37 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100217 13:12:37  InnoDB: Starting shutdown...
+100217 13:12:42  InnoDB: Shutdown completed; log sequence number 0 25051176
+100217 13:12:42 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100217 13:57:46  InnoDB: Started; log sequence number 0 25051176
+100217 13:57:46 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100217 14:01:44 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100217 14:01:44  InnoDB: Starting shutdown...
+100217 14:01:47  InnoDB: Shutdown completed; log sequence number 0 25052005
+100217 14:01:47 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100217 14:06:48  InnoDB: Started; log sequence number 0 25052005
+100217 14:06:48 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100217 14:09:16 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100217 14:09:16  InnoDB: Starting shutdown...
+100217 14:09:20  InnoDB: Shutdown completed; log sequence number 0 25053129
+100217 14:09:20 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100217 14:09:24  InnoDB: Started; log sequence number 0 25053129
+100217 14:09:24 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100217 14:11:57 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100217 14:11:57  InnoDB: Starting shutdown...
+100217 14:12:00  InnoDB: Shutdown completed; log sequence number 0 25055847
+100217 14:12:00 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100217 16:56:08  InnoDB: Started; log sequence number 0 25055847
+100217 16:56:08 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100217 17:19:19 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100217 17:19:19  InnoDB: Starting shutdown...
+100217 17:19:23  InnoDB: Shutdown completed; log sequence number 0 25065959
+100217 17:19:23 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100218 11:07:04  InnoDB: Started; log sequence number 0 25065959
+100218 11:07:04 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100218 11:07:18 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100218 11:07:18  InnoDB: Starting shutdown...
+100218 11:07:22  InnoDB: Shutdown completed; log sequence number 0 25066021
+100218 11:07:22 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100220 11:12:20  InnoDB: Started; log sequence number 0 25066021
+100220 11:12:21 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100220 11:54:47 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+100220 11:54:47  InnoDB: Starting shutdown...
+100220 11:54:51  InnoDB: Shutdown completed; log sequence number 0 25066031
+100220 11:54:51 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+100224 17:04:02  InnoDB: Started; log sequence number 0 25066031
+100224 17:04:03 [Note] E:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)

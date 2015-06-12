@@ -1,0 +1,3020 @@
+080822 19:27:50  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080822 19:27:51  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 3088211.
+InnoDB: Doing recovery: scanned up to log sequence number 0 3088211
+080822 19:27:52  InnoDB: Started; log sequence number 0 3088211
+080822 19:27:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080822 19:30:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080822 19:30:16  InnoDB: Starting shutdown...
+080822 19:30:20  InnoDB: Shutdown completed; log sequence number 0 3094430
+080822 19:30:20 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080822 19:34:32  InnoDB: Started; log sequence number 0 3094430
+080822 19:34:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080822 19:53:17 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080822 19:53:19 [Warning] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Forcing close of thread 5  user: 'root'
+
+080822 19:53:19  InnoDB: Starting shutdown...
+080822 19:53:23  InnoDB: Shutdown completed; log sequence number 0 3094440
+080822 19:53:23 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080822 19:53:56  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080822 19:53:56  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 3737990.
+InnoDB: Doing recovery: scanned up to log sequence number 0 3737990
+080822 19:53:56  InnoDB: Started; log sequence number 0 3737990
+080822 19:53:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080822 20:20:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080822 20:20:34  InnoDB: Starting shutdown...
+080822 20:20:39  InnoDB: Shutdown completed; log sequence number 0 3738484
+080822 20:20:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080822 20:20:39  InnoDB: Started; log sequence number 0 3738484
+080822 20:20:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080822 20:37:23 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080822 20:37:23  InnoDB: Starting shutdown...
+080822 20:37:27  InnoDB: Shutdown completed; log sequence number 0 3757343
+080822 20:37:27 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080823  9:53:20  InnoDB: Started; log sequence number 0 3757343
+080823  9:53:20 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080823 10:03:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080823 10:03:36  InnoDB: Starting shutdown...
+080823 10:03:40  InnoDB: Shutdown completed; log sequence number 0 3757392
+080823 10:03:40 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080823 10:32:29  InnoDB: Started; log sequence number 0 3757392
+080823 10:32:30 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080823 14:33:58 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080823 14:33:58  InnoDB: Starting shutdown...
+080823 14:33:59  InnoDB: Shutdown completed; log sequence number 0 3873312
+080823 14:33:59 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080823 14:34:16  InnoDB: Started; log sequence number 0 3873312
+080823 14:34:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080823 14:43:12 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080823 14:43:12  InnoDB: Starting shutdown...
+080823 14:43:16  InnoDB: Shutdown completed; log sequence number 0 3873322
+080823 14:43:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080825  9:30:04  InnoDB: Started; log sequence number 0 3873322
+080825  9:30:05 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080825  9:30:13 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080825  9:30:13  InnoDB: Starting shutdown...
+080825  9:30:17  InnoDB: Shutdown completed; log sequence number 0 3873332
+080825  9:30:17 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080822  9:34:30  InnoDB: Started; log sequence number 0 3873332
+080822  9:34:30 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080822  9:58:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080822  9:58:44  InnoDB: Starting shutdown...
+080822  9:58:46  InnoDB: Shutdown completed; log sequence number 0 3882669
+080822  9:58:46 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080823  9:58:56  InnoDB: Started; log sequence number 0 3882669
+080823  9:58:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080823 10:14:54 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080823 10:14:54  InnoDB: Starting shutdown...
+080823 10:14:57  InnoDB: Shutdown completed; log sequence number 0 3887561
+080823 10:14:57 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080825 10:15:10  InnoDB: Started; log sequence number 0 3887561
+080825 10:15:10 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080825 12:34:38  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080825 12:34:39  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 3888834.
+InnoDB: Doing recovery: scanned up to log sequence number 0 3888834
+080825 12:34:39  InnoDB: Started; log sequence number 0 3888834
+080825 12:34:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080825 12:44:17 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080825 12:44:17  InnoDB: Starting shutdown...
+080825 12:44:20  InnoDB: Shutdown completed; log sequence number 0 3888844
+080825 12:44:20 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080825 13:34:36  InnoDB: Started; log sequence number 0 3888844
+080825 13:34:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080825 15:15:09 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080825 15:15:09  InnoDB: Starting shutdown...
+080825 15:15:11  InnoDB: Shutdown completed; log sequence number 0 3888854
+080825 15:15:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080825 17:45:43  InnoDB: Started; log sequence number 0 3888854
+080825 17:45:44 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080825 20:28:37 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080825 20:28:37  InnoDB: Starting shutdown...
+080825 20:28:39  InnoDB: Shutdown completed; log sequence number 0 3888864
+080825 20:28:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080826 11:30:23  InnoDB: Started; log sequence number 0 3888864
+080826 11:30:24 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080826 11:46:37 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080826 11:46:37  InnoDB: Starting shutdown...
+080826 11:46:40  InnoDB: Shutdown completed; log sequence number 0 3890629
+080826 11:46:40 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080826 19:03:47  InnoDB: Started; log sequence number 0 3890629
+080826 19:03:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080826 20:35:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080826 20:35:48  InnoDB: Starting shutdown...
+080826 20:35:52  InnoDB: Shutdown completed; log sequence number 0 3891497
+080826 20:35:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080827  9:50:39  InnoDB: Started; log sequence number 0 3891497
+080827  9:50:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080827 10:48:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080827 10:48:36  InnoDB: Starting shutdown...
+080827 10:48:40  InnoDB: Shutdown completed; log sequence number 0 3892507
+080827 10:48:40 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080823 11:00:37  InnoDB: Started; log sequence number 0 3892507
+080823 11:00:37 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080823 11:01:57 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080823 11:01:57  InnoDB: Starting shutdown...
+080823 11:02:01  InnoDB: Shutdown completed; log sequence number 0 3892517
+080823 11:02:01 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080827 11:02:11  InnoDB: Started; log sequence number 0 3892517
+080827 11:02:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080827 11:43:20 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080827 11:43:20  InnoDB: Starting shutdown...
+080827 11:43:22  InnoDB: Shutdown completed; log sequence number 0 3892527
+080827 11:43:22 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080823 11:43:46  InnoDB: Started; log sequence number 0 3892527
+080823 11:43:47 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080823 11:48:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080823 11:48:39  InnoDB: Starting shutdown...
+080823 11:48:43  InnoDB: Shutdown completed; log sequence number 0 3896643
+080823 11:48:43 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080825 11:48:51  InnoDB: Started; log sequence number 0 3896643
+080825 11:48:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080825 13:00:37 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080825 13:00:37  InnoDB: Starting shutdown...
+080825 13:00:40  InnoDB: Shutdown completed; log sequence number 0 3908164
+080825 13:00:40 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080826 13:00:53  InnoDB: Started; log sequence number 0 3908164
+080826 13:00:53 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080826 13:18:58 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080826 13:18:58  InnoDB: Starting shutdown...
+080826 13:19:02  InnoDB: Shutdown completed; log sequence number 0 3912838
+080826 13:19:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080827 13:19:12  InnoDB: Started; log sequence number 0 3912838
+080827 13:19:13 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080827 14:12:50 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080827 14:12:50  InnoDB: Starting shutdown...
+080827 14:12:53  InnoDB: Shutdown completed; log sequence number 0 3922774
+080827 14:12:53 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080827 19:43:34  InnoDB: Started; log sequence number 0 3922774
+080827 19:43:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080827 19:43:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080827 19:43:48  InnoDB: Starting shutdown...
+080827 19:43:50  InnoDB: Shutdown completed; log sequence number 0 3922820
+080827 19:43:50 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080828 10:33:27  InnoDB: Started; log sequence number 0 3922820
+080828 10:33:28 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080828 11:24:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080828 11:24:39  InnoDB: Starting shutdown...
+080828 11:24:42  InnoDB: Shutdown completed; log sequence number 0 3922830
+080828 11:24:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080829 10:07:32  InnoDB: Started; log sequence number 0 3922830
+080829 10:07:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080829 10:25:59 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080829 10:25:59  InnoDB: Starting shutdown...
+080829 10:26:03  InnoDB: Shutdown completed; log sequence number 0 3922840
+080829 10:26:03 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080828 10:26:16  InnoDB: Started; log sequence number 0 3922840
+080828 10:26:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080829 10:41:09 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080829 10:41:09  InnoDB: Starting shutdown...
+080829 10:41:13  InnoDB: Shutdown completed; log sequence number 0 3929428
+080829 10:41:13 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080829 10:41:17  InnoDB: Started; log sequence number 0 3929428
+080829 10:41:17 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080829 11:06:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080829 11:06:39  InnoDB: Starting shutdown...
+080829 11:06:44  InnoDB: Shutdown completed; log sequence number 0 3929474
+080829 11:06:44 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080829 12:12:34  InnoDB: Started; log sequence number 0 3929474
+080829 12:12:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080829 12:18:41 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080829 12:18:41  InnoDB: Starting shutdown...
+080829 12:18:44  InnoDB: Shutdown completed; log sequence number 0 3929484
+080829 12:18:44 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080829 18:42:40  InnoDB: Started; log sequence number 0 3929484
+080829 18:42:41 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080829 19:57:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080829 19:57:36  InnoDB: Starting shutdown...
+080829 19:57:39  InnoDB: Shutdown completed; log sequence number 0 3986204
+080829 19:57:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080830  9:49:53  InnoDB: Started; log sequence number 0 3986204
+080830  9:49:54 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080830  9:58:23 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080830  9:58:23  InnoDB: Starting shutdown...
+080830  9:58:28  InnoDB: Shutdown completed; log sequence number 0 3986250
+080830  9:58:28 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080830 10:00:18  InnoDB: Started; log sequence number 0 3986250
+080830 10:00:18 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080830 13:51:44 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080830 13:51:44  InnoDB: Starting shutdown...
+080830 13:51:48  InnoDB: Shutdown completed; log sequence number 0 4071685
+080830 13:51:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080902 12:53:32  InnoDB: Started; log sequence number 0 4071685
+080902 12:53:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080902 20:28:36  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080902 20:28:39  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4071695.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4071695
+080902 20:28:39  InnoDB: Started; log sequence number 0 4071695
+080902 20:28:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080902 20:40:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080902 20:40:07  InnoDB: Starting shutdown...
+080902 20:40:09  InnoDB: Shutdown completed; log sequence number 0 4071705
+080902 20:40:09 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080903 19:11:00  InnoDB: Started; log sequence number 0 4071705
+080903 19:11:00 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080903 19:11:10 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080903 19:11:10  InnoDB: Starting shutdown...
+080903 19:11:14  InnoDB: Shutdown completed; log sequence number 0 4071715
+080903 19:11:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080906  5:21:40  InnoDB: Started; log sequence number 0 4071715
+080906  5:21:40 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080906  5:36:50 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080906  5:36:52  InnoDB: Starting shutdown...
+080906  5:36:56  InnoDB: Shutdown completed; log sequence number 0 4071725
+080906  5:36:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080906  5:37:02  InnoDB: Started; log sequence number 0 4071725
+080906  5:37:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080906  5:37:37 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080906  5:37:39  InnoDB: Starting shutdown...
+080906  5:37:42  InnoDB: Shutdown completed; log sequence number 0 4071735
+080906  5:37:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080829 10:11:18  InnoDB: Started; log sequence number 0 4071735
+080829 10:11:18 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080829 10:21:23 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080829 10:21:25  InnoDB: Starting shutdown...
+080829 10:21:28  InnoDB: Shutdown completed; log sequence number 0 4071745
+080829 10:21:28 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080901 10:21:51  InnoDB: Started; log sequence number 0 4071745
+080901 10:21:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080901 10:33:59 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080901 10:34:01  InnoDB: Starting shutdown...
+080901 10:34:04  InnoDB: Shutdown completed; log sequence number 0 4077645
+080901 10:34:04 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080902 10:34:13  InnoDB: Started; log sequence number 0 4077645
+080902 10:34:13 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080902 10:52:37 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080902 10:52:39  InnoDB: Starting shutdown...
+080902 10:52:43  InnoDB: Shutdown completed; log sequence number 0 4083747
+080902 10:52:43 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080811 10:53:45  InnoDB: Started; log sequence number 0 4083747
+080811 10:53:45 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080811 10:55:29 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080811 10:55:29  InnoDB: Starting shutdown...
+080811 10:55:32  InnoDB: Shutdown completed; log sequence number 0 4083757
+080811 10:55:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080902 10:56:02  InnoDB: Started; log sequence number 0 4083757
+080902 10:56:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080902 11:00:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080902 11:00:32  InnoDB: Starting shutdown...
+080902 11:00:34  InnoDB: Shutdown completed; log sequence number 0 4083981
+080902 11:00:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080811 11:01:20  InnoDB: Started; log sequence number 0 4083981
+080811 11:01:20 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080811 11:03:25 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080811 11:03:27  InnoDB: Starting shutdown...
+080811 11:03:31  InnoDB: Shutdown completed; log sequence number 0 4085389
+080811 11:03:31 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080902 11:04:08  InnoDB: Started; log sequence number 0 4085389
+080902 11:04:08 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080902 11:07:00 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080902 11:07:02  InnoDB: Starting shutdown...
+080902 11:07:04  InnoDB: Shutdown completed; log sequence number 0 4085399
+080902 11:07:04 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080811 11:07:19  InnoDB: Started; log sequence number 0 4085399
+080811 11:07:19 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080811 11:08:05 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080811 11:08:05  InnoDB: Starting shutdown...
+080811 11:08:09  InnoDB: Shutdown completed; log sequence number 0 4085409
+080811 11:08:09 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080902 11:08:18  InnoDB: Started; log sequence number 0 4085409
+080902 11:08:19 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080902 11:12:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080902 11:12:11  InnoDB: Starting shutdown...
+080902 11:12:15  InnoDB: Shutdown completed; log sequence number 0 4085800
+080902 11:12:15 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080811 11:12:26  InnoDB: Started; log sequence number 0 4085800
+080811 11:12:26 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080811 11:14:25 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080811 11:14:25  InnoDB: Starting shutdown...
+080811 11:14:28  InnoDB: Shutdown completed; log sequence number 0 4086183
+080811 11:14:28 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080902 11:14:42  InnoDB: Started; log sequence number 0 4086183
+080902 11:14:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080902 11:20:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080902 11:20:32  InnoDB: Starting shutdown...
+080902 11:20:37  InnoDB: Shutdown completed; log sequence number 0 4086423
+080902 11:20:37 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080902 11:20:39  InnoDB: Started; log sequence number 0 4086423
+080902 11:20:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080902 11:22:20 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080902 11:22:20  InnoDB: Starting shutdown...
+080902 11:22:26  InnoDB: Shutdown completed; log sequence number 0 4086647
+080902 11:22:26 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080902 11:22:58  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080902 11:23:00  InnoDB: Started; log sequence number 0 4086647
+080902 11:23:01 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080902 11:32:01 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080902 11:32:01  InnoDB: Starting shutdown...
+080902 11:32:04  InnoDB: Shutdown completed; log sequence number 0 4086657
+080902 11:32:04 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080811 11:32:19  InnoDB: Started; log sequence number 0 4086657
+080811 11:32:19 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080811 11:39:50  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080811 11:39:51  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4086667.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4086667
+080811 11:39:52  InnoDB: Started; log sequence number 0 4086667
+080811 11:39:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080811 11:42:10 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080811 11:42:10  InnoDB: Starting shutdown...
+080811 11:42:15  InnoDB: Shutdown completed; log sequence number 0 4086677
+080811 11:42:15 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080902 11:42:28  InnoDB: Started; log sequence number 0 4086677
+080902 11:42:28 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080902 11:43:39  InnoDB: Started; log sequence number 0 4086677
+080902 11:43:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080902 12:02:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080902 12:02:39  InnoDB: Starting shutdown...
+080902 12:02:43  InnoDB: Shutdown completed; log sequence number 0 4086917
+080902 12:02:43 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080902 12:03:07  InnoDB: Started; log sequence number 0 4086917
+080902 12:03:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080902 12:04:31 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080902 12:04:33  InnoDB: Starting shutdown...
+080902 12:04:35  InnoDB: Shutdown completed; log sequence number 0 4087141
+080902 12:04:35 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080902 12:04:51  InnoDB: Started; log sequence number 0 4087141
+080902 12:04:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080902 12:07:03 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080902 12:07:05  InnoDB: Starting shutdown...
+080902 12:07:09  InnoDB: Shutdown completed; log sequence number 0 4087151
+080902 12:07:09 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080811 12:07:32  InnoDB: Started; log sequence number 0 4087151
+080811 12:07:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080811 12:09:19 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080811 12:09:19  InnoDB: Starting shutdown...
+080811 12:09:23  InnoDB: Shutdown completed; log sequence number 0 4087161
+080811 12:09:23 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080902 12:09:33  InnoDB: Started; log sequence number 0 4087161
+080902 12:09:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080902 12:12:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080902 12:12:16  InnoDB: Starting shutdown...
+080902 12:12:21  InnoDB: Shutdown completed; log sequence number 0 4087171
+080902 12:12:21 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080903 12:13:03  InnoDB: Started; log sequence number 0 4087171
+080903 12:13:04 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080903 12:13:37  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080903 12:17:38 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080903 12:17:38  InnoDB: Starting shutdown...
+080903 12:17:45  InnoDB: Shutdown completed; log sequence number 0 4087181
+080903 12:17:45 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080906 12:26:34  InnoDB: Started; log sequence number 0 4087181
+080906 12:26:35 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080906 14:37:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080906 14:37:14  InnoDB: Starting shutdown...
+080906 14:37:19  InnoDB: Shutdown completed; log sequence number 0 4166627
+080906 14:37:19 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080908  9:45:33  InnoDB: Started; log sequence number 0 4166627
+080908  9:45:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080902 11:32:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080902 11:32:11  InnoDB: Starting shutdown...
+080902 11:32:14  InnoDB: Shutdown completed; log sequence number 0 4170172
+080902 11:32:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080903 11:32:24  InnoDB: Started; log sequence number 0 4170172
+080903 11:32:25 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080903 11:38:57 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080903 11:38:57  InnoDB: Starting shutdown...
+080904 11:39:00  InnoDB: Shutdown completed; log sequence number 0 4171319
+080904 11:39:00 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080904 11:39:08  InnoDB: Started; log sequence number 0 4171319
+080904 11:39:08 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080904 11:41:00 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080904 11:41:00  InnoDB: Starting shutdown...
+080905 11:41:03  InnoDB: Shutdown completed; log sequence number 0 4172232
+080905 11:41:03 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080905 11:41:09  InnoDB: Started; log sequence number 0 4172232
+080905 11:41:09 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080905 12:11:53 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080905 12:11:53  InnoDB: Starting shutdown...
+080905 12:11:56  InnoDB: Shutdown completed; log sequence number 0 4180658
+080905 12:11:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080906 12:12:30  InnoDB: Started; log sequence number 0 4180658
+080906 12:12:31 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080906 12:19:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080906 12:19:14  InnoDB: Starting shutdown...
+080906 12:19:17  InnoDB: Shutdown completed; log sequence number 0 4182231
+080906 12:19:17 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080908 12:19:23  InnoDB: Started; log sequence number 0 4182231
+080908 12:19:23 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080908 14:27:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080908 14:27:13  InnoDB: Starting shutdown...
+080908 14:27:16  InnoDB: Shutdown completed; log sequence number 0 4185057
+080908 14:27:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080912 11:30:52  InnoDB: Started; log sequence number 0 4185057
+080912 11:30:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080912 12:07:30 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080912 12:07:30  InnoDB: Starting shutdown...
+080912 12:07:32  InnoDB: Shutdown completed; log sequence number 0 4185067
+080912 12:07:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080912 12:39:43  InnoDB: Started; log sequence number 0 4185067
+080912 12:39:43 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080912 12:46:24 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080912 12:46:24  InnoDB: Starting shutdown...
+080912 12:46:28  InnoDB: Shutdown completed; log sequence number 0 4185077
+080912 12:46:28 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080908 12:46:50  InnoDB: Started; log sequence number 0 4185077
+080908 12:46:50 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080908 13:21:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080908 13:21:13  InnoDB: Starting shutdown...
+080908 13:21:16  InnoDB: Shutdown completed; log sequence number 0 4187002
+080908 13:21:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080910 13:32:47  InnoDB: Started; log sequence number 0 4187002
+080910 13:32:47 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080910 14:11:30 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080910 14:11:30  InnoDB: Starting shutdown...
+080910 14:11:34  InnoDB: Shutdown completed; log sequence number 0 4197152
+080910 14:11:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080912 14:12:46  InnoDB: Started; log sequence number 0 4197152
+080912 14:12:46 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080912 14:35:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080912 14:35:14  InnoDB: Starting shutdown...
+080912 14:35:16  InnoDB: Shutdown completed; log sequence number 0 4200699
+080912 14:35:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080913  9:32:29  InnoDB: Started; log sequence number 0 4200699
+080913  9:32:31 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080913 11:20:13 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080913 11:20:14  InnoDB: Starting shutdown...
+080913 11:20:17  InnoDB: Shutdown completed; log sequence number 0 4204014
+080913 11:20:17 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080913 11:20:24  InnoDB: Started; log sequence number 0 4204014
+080913 11:20:24 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080913 14:13:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080913 14:13:56  InnoDB: Starting shutdown...
+080913 14:13:59  InnoDB: Shutdown completed; log sequence number 0 4292963
+080913 14:13:59 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080915 10:44:29  InnoDB: Started; log sequence number 0 4292963
+080915 10:44:29 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080915 13:17:27 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080915 13:17:27  InnoDB: Starting shutdown...
+080915 13:17:29  InnoDB: Shutdown completed; log sequence number 0 4293051
+080915 13:17:29 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080917 13:52:11  InnoDB: Started; log sequence number 0 4293051
+080917 13:52:12 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080917 14:03:22 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080917 14:03:22  InnoDB: Starting shutdown...
+080917 14:03:26  InnoDB: Shutdown completed; log sequence number 0 4293061
+080917 14:03:26 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080913 14:03:46  InnoDB: Started; log sequence number 0 4293061
+080913 14:03:46 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080913 14:29:30 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080913 14:29:30  InnoDB: Starting shutdown...
+080913 14:29:35  InnoDB: Shutdown completed; log sequence number 0 4293071
+080913 14:29:35 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080914 17:56:59  InnoDB: Started; log sequence number 0 4293071
+080914 17:57:00 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080914 18:33:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080914 18:33:51  InnoDB: Starting shutdown...
+080914 18:33:54  InnoDB: Shutdown completed; log sequence number 0 4293081
+080914 18:33:54 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080914 18:37:39  InnoDB: Started; log sequence number 0 4293081
+080914 18:37:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080914 18:38:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080914 18:38:04  InnoDB: Starting shutdown...
+080913 18:38:07  InnoDB: Shutdown completed; log sequence number 0 4293091
+080913 18:38:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080913 18:38:14  InnoDB: Started; log sequence number 0 4293091
+080913 18:38:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080913 19:49:12 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080913 19:49:12  InnoDB: Starting shutdown...
+080913 19:49:16  InnoDB: Shutdown completed; log sequence number 0 4298095
+080913 19:49:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080915 19:50:26  InnoDB: Started; log sequence number 0 4298095
+080915 19:50:27 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080915 19:55:17 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080915 19:55:17  InnoDB: Starting shutdown...
+080915 19:55:20  InnoDB: Shutdown completed; log sequence number 0 4299053
+080915 19:55:20 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080917 19:55:51  InnoDB: Started; log sequence number 0 4299053
+080917 19:55:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080917 20:13:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080917 20:13:48  InnoDB: Starting shutdown...
+080917 20:13:51  InnoDB: Shutdown completed; log sequence number 0 4300712
+080917 20:13:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080918 20:14:48  InnoDB: Started; log sequence number 0 4300712
+080918 20:14:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080918 20:22:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080918 20:22:09  InnoDB: Starting shutdown...
+080918 20:22:12  InnoDB: Shutdown completed; log sequence number 0 4302832
+080918 20:22:12 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080919 13:29:35  InnoDB: Started; log sequence number 0 4302832
+080919 13:29:35 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080919 13:35:41 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080919 13:35:41  InnoDB: Starting shutdown...
+080919 13:35:45  InnoDB: Shutdown completed; log sequence number 0 4302842
+080919 13:35:45 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080918 13:49:14  InnoDB: Started; log sequence number 0 4302842
+080918 13:49:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080919 14:25:47 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080919 14:25:49  InnoDB: Starting shutdown...
+080919 14:25:52  InnoDB: Shutdown completed; log sequence number 0 4306203
+080919 14:25:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080920 11:36:22  InnoDB: Started; log sequence number 0 4306203
+080920 11:36:22 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080920 14:25:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080920 14:25:51  InnoDB: Starting shutdown...
+080920 14:25:56  InnoDB: Shutdown completed; log sequence number 0 4425880
+080920 14:25:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080922  9:38:54  InnoDB: Started; log sequence number 0 4425880
+080922  9:38:54 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080922 10:33:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080922 10:33:51  InnoDB: Starting shutdown...
+080922 10:33:54  InnoDB: Shutdown completed; log sequence number 0 4425890
+080922 10:33:54 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080924 11:25:56  InnoDB: Started; log sequence number 0 4425890
+080924 11:25:57 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080924 11:27:57 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080924 11:27:57  InnoDB: Starting shutdown...
+080924 11:28:01  InnoDB: Shutdown completed; log sequence number 0 4425900
+080924 11:28:01 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080925 11:58:17  InnoDB: Started; log sequence number 0 4425900
+080925 11:58:17 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080925 12:05:59 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080925 12:05:59  InnoDB: Starting shutdown...
+080925 12:06:02  InnoDB: Shutdown completed; log sequence number 0 4425910
+080925 12:06:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080920 18:23:22  InnoDB: Started; log sequence number 0 4425910
+080920 18:23:23 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080920 18:37:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080920 18:37:34  InnoDB: Starting shutdown...
+080920 18:37:39  InnoDB: Shutdown completed; log sequence number 0 4426891
+080920 18:37:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080922 18:38:04  InnoDB: Started; log sequence number 0 4426891
+080922 18:38:05 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080922 19:10:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080922 19:10:44  InnoDB: Starting shutdown...
+080922 19:10:48  InnoDB: Shutdown completed; log sequence number 0 4435244
+080922 19:10:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080923 19:11:58  InnoDB: Started; log sequence number 0 4435244
+080923 19:11:58 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080923 20:19:45 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080923 20:19:47  InnoDB: Starting shutdown...
+080923 20:19:51  InnoDB: Shutdown completed; log sequence number 0 4452740
+080923 20:19:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080923 10:26:44  InnoDB: Started; log sequence number 0 4452740
+080923 10:26:45 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080923 13:14:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080923 13:14:34  InnoDB: Starting shutdown...
+080923 13:14:40  InnoDB: Shutdown completed; log sequence number 0 4455320
+080923 13:14:40 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080924 13:15:10  InnoDB: Started; log sequence number 0 4455320
+080924 13:15:12 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080924 13:53:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080924 13:53:04  InnoDB: Starting shutdown...
+080924 13:53:09  InnoDB: Shutdown completed; log sequence number 0 4471128
+080924 13:53:09 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080926 15:45:55  InnoDB: Started; log sequence number 0 4471128
+080926 15:45:55 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080926 15:46:12  InnoDB: Started; log sequence number 0 4471128
+080926 15:46:12 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080926 17:50:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080926 17:50:14  InnoDB: Starting shutdown...
+080926 17:50:16  InnoDB: Shutdown completed; log sequence number 0 4473966
+080926 17:50:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080926 10:19:46  InnoDB: Started; log sequence number 0 4473966
+080926 10:19:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080926 11:15:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080926 11:15:35  InnoDB: Starting shutdown...
+080926 11:15:36  InnoDB: Shutdown completed; log sequence number 0 4600284
+080926 11:15:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080926 11:16:05  InnoDB: Started; log sequence number 0 4600284
+080926 11:16:06 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080926 11:26:17 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080926 11:26:19  InnoDB: Starting shutdown...
+080926 11:26:23  InnoDB: Shutdown completed; log sequence number 0 4601810
+080926 11:26:23 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080927 11:27:09  InnoDB: Started; log sequence number 0 4601810
+080927 11:27:09 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080927 12:50:49 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080927 12:50:51  InnoDB: Starting shutdown...
+080927 12:50:54  InnoDB: Shutdown completed; log sequence number 0 4604844
+080927 12:50:54 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080923 12:52:01  InnoDB: Started; log sequence number 0 4604844
+080923 12:52:01 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080923 12:53:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080923 12:53:32  InnoDB: Starting shutdown...
+080923 12:53:35  InnoDB: Shutdown completed; log sequence number 0 4605901
+080923 12:53:35 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080927 13:08:27  InnoDB: Started; log sequence number 0 4605901
+080927 13:08:27 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080927 13:14:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080927 13:14:36  InnoDB: Starting shutdown...
+080927 13:14:39  InnoDB: Shutdown completed; log sequence number 0 4605911
+080927 13:14:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080927 13:15:28  InnoDB: Started; log sequence number 0 4605911
+080927 13:15:28 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080927 14:50:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080927 14:50:38  InnoDB: Starting shutdown...
+080927 14:50:41  InnoDB: Shutdown completed; log sequence number 0 4678556
+080927 14:50:41 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080929 10:45:50  InnoDB: Started; log sequence number 0 4678556
+080929 10:45:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080929 11:43:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080929 11:43:52  InnoDB: Starting shutdown...
+080929 11:43:56  InnoDB: Shutdown completed; log sequence number 0 4678566
+080929 11:43:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080927 11:44:12  InnoDB: Started; log sequence number 0 4678566
+080927 11:44:12 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080927 11:52:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080927 11:52:58  InnoDB: Starting shutdown...
+080927 11:53:01  InnoDB: Shutdown completed; log sequence number 0 4680742
+080927 11:53:01 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080929 11:53:16  InnoDB: Started; log sequence number 0 4680742
+080929 11:53:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080929 12:25:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080929 12:25:35  InnoDB: Starting shutdown...
+080929 12:25:36  InnoDB: Shutdown completed; log sequence number 0 4683026
+080929 12:25:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080929 12:57:17  InnoDB: Started; log sequence number 0 4683026
+080929 12:57:18 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080929 12:57:38  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080929 12:57:42  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4683065.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4683065
+080929 12:57:42  InnoDB: Started; log sequence number 0 4683065
+080929 12:57:43 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080929 12:57:51  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+080929 12:57:53  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 4683065.
+InnoDB: Doing recovery: scanned up to log sequence number 0 4683065
+080929 12:57:54  InnoDB: Started; log sequence number 0 4683065
+080929 12:57:54 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080929 15:00:47 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080929 15:00:47  InnoDB: Starting shutdown...
+080929 15:00:50  InnoDB: Shutdown completed; log sequence number 0 4683075
+080929 15:00:50 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080929 21:25:43  InnoDB: Started; log sequence number 0 4683075
+080929 21:25:46 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080929 21:52:58 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080929 21:52:58  InnoDB: Starting shutdown...
+080929 21:53:02  InnoDB: Shutdown completed; log sequence number 0 4688349
+080929 21:53:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081001 12:03:46  InnoDB: Started; log sequence number 0 4688349
+081001 12:03:47 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081001 12:10:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081001 12:10:52  InnoDB: Starting shutdown...
+081001 12:10:54  InnoDB: Shutdown completed; log sequence number 0 4688359
+081001 12:10:54 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081001 12:11:49  InnoDB: Started; log sequence number 0 4688359
+081001 12:11:49 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081001 13:43:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081001 13:43:13  InnoDB: Starting shutdown...
+081001 13:43:14  InnoDB: Shutdown completed; log sequence number 0 4697269
+081001 13:43:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081001 13:48:17  InnoDB: Started; log sequence number 0 4697269
+081001 13:48:17 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081001 13:55:09 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081001 13:55:09  InnoDB: Starting shutdown...
+081001 13:55:11  InnoDB: Shutdown completed; log sequence number 0 4701843
+081001 13:55:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081002 10:30:29  InnoDB: Started; log sequence number 0 4701843
+081002 10:30:30 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081002 11:36:40 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081002 11:36:40  InnoDB: Starting shutdown...
+081002 11:36:42  InnoDB: Shutdown completed; log sequence number 0 4703670
+081002 11:36:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081003 11:29:32  InnoDB: Started; log sequence number 0 4703670
+081003 11:29:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081003 12:40:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081003 12:40:02  InnoDB: Starting shutdown...
+081003 12:40:05  InnoDB: Shutdown completed; log sequence number 0 4708244
+081003 12:40:05 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081002 12:40:21  InnoDB: Started; log sequence number 0 4708244
+081002 12:40:21 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081002 12:47:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081002 12:47:56  InnoDB: Starting shutdown...
+081002 12:48:00  InnoDB: Shutdown completed; log sequence number 0 4709472
+081002 12:48:00 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081003 12:48:17  InnoDB: Started; log sequence number 0 4709472
+081003 12:48:18 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081003 15:30:30 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081003 15:30:30  InnoDB: Starting shutdown...
+081003 15:30:32  InnoDB: Shutdown completed; log sequence number 0 4715805
+081003 15:30:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081004 15:00:55  InnoDB: Started; log sequence number 0 4715805
+081004 15:01:00 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081004 15:13:10 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081004 15:13:10  InnoDB: Starting shutdown...
+081004 15:13:14  InnoDB: Shutdown completed; log sequence number 0 4717886
+081004 15:13:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081008 10:51:08  InnoDB: Started; log sequence number 0 4717886
+081008 10:51:10 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081008 11:38:00 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081008 11:38:00  InnoDB: Starting shutdown...
+081008 11:38:02  InnoDB: Shutdown completed; log sequence number 0 4717896
+081008 11:38:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081006 11:38:34  InnoDB: Started; log sequence number 0 4717896
+081006 11:38:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081006 11:46:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081006 11:46:48  InnoDB: Starting shutdown...
+081006 11:46:52  InnoDB: Shutdown completed; log sequence number 0 4719700
+081006 11:46:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081007 11:47:18  InnoDB: Started; log sequence number 0 4719700
+081007 11:47:18 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081007 12:55:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081007 12:55:56  InnoDB: Starting shutdown...
+081007 12:55:59  InnoDB: Shutdown completed; log sequence number 0 4721610
+081007 12:55:59 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081008 13:41:57  InnoDB: Started; log sequence number 0 4721610
+081008 13:41:58 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081008 14:07:06 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081008 14:07:06  InnoDB: Starting shutdown...
+081008 14:07:11  InnoDB: Shutdown completed; log sequence number 0 4725027
+081008 14:07:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080829 18:29:32  InnoDB: Started; log sequence number 0 4725027
+080829 18:29:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080829 18:32:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080829 18:32:07  InnoDB: Starting shutdown...
+080829 18:32:10  InnoDB: Shutdown completed; log sequence number 0 4725419
+080829 18:32:10 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080908 18:32:32  InnoDB: Started; log sequence number 0 4725419
+080908 18:32:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080908 18:35:25 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080908 18:35:25  InnoDB: Starting shutdown...
+080908 18:35:30  InnoDB: Shutdown completed; log sequence number 0 4725798
+080908 18:35:30 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080922 18:35:51  InnoDB: Started; log sequence number 0 4725798
+080922 18:35:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080922 18:37:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080922 18:37:07  InnoDB: Starting shutdown...
+080922 18:37:11  InnoDB: Shutdown completed; log sequence number 0 4726161
+080922 18:37:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080925 18:37:41  InnoDB: Started; log sequence number 0 4726161
+080925 18:37:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080925 18:39:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080925 18:39:33  InnoDB: Starting shutdown...
+080925 18:39:36  InnoDB: Shutdown completed; log sequence number 0 4726540
+080925 18:39:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080929 18:41:43  InnoDB: Started; log sequence number 0 4726540
+080929 18:41:43 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080929 18:43:24 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080929 18:43:24  InnoDB: Starting shutdown...
+080929 18:43:28  InnoDB: Shutdown completed; log sequence number 0 4726919
+080929 18:43:28 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081001 18:43:46  InnoDB: Started; log sequence number 0 4726919
+081001 18:43:46 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081001 18:45:22 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081001 18:45:22  InnoDB: Starting shutdown...
+081001 18:45:26  InnoDB: Shutdown completed; log sequence number 0 4727282
+081001 18:45:26 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081008 18:46:00  InnoDB: Started; log sequence number 0 4727282
+081008 18:46:00 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081008 18:57:41 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081008 18:57:41  InnoDB: Starting shutdown...
+081008 18:57:45  InnoDB: Shutdown completed; log sequence number 0 4728492
+081008 18:57:45 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080908 18:58:40  InnoDB: Started; log sequence number 0 4728492
+080908 18:58:40 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080908 19:00:06 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080908 19:00:06  InnoDB: Starting shutdown...
+080908 19:00:11  InnoDB: Shutdown completed; log sequence number 0 4728910
+080908 19:00:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080922 19:00:51  InnoDB: Started; log sequence number 0 4728910
+080922 19:00:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080922 19:16:52  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+080922 19:17:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080922 19:17:07  InnoDB: Starting shutdown...
+080922 19:17:09  InnoDB: Shutdown completed; log sequence number 0 4729285
+080922 19:17:09 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081008 19:17:24  InnoDB: Started; log sequence number 0 4729285
+081008 19:17:24 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081008 19:20:08 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081008 19:20:08  InnoDB: Starting shutdown...
+081008 19:20:13  InnoDB: Shutdown completed; log sequence number 0 4729295
+081008 19:20:13 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080922 19:20:23  InnoDB: Started; log sequence number 0 4729295
+080922 19:20:23 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080922 19:27:08 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080922 19:27:08  InnoDB: Starting shutdown...
+080923 19:27:11  InnoDB: Shutdown completed; log sequence number 0 4729687
+080923 19:27:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080923 19:27:26  InnoDB: Started; log sequence number 0 4729687
+080923 19:27:26 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080923 19:28:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080923 19:28:41  InnoDB: Starting shutdown...
+080929 19:28:44  InnoDB: Shutdown completed; log sequence number 0 4730066
+080929 19:28:44 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+080929 19:28:56  InnoDB: Started; log sequence number 0 4730066
+080929 19:28:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+080929 19:31:13 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+080929 19:31:13  InnoDB: Starting shutdown...
+080929 19:31:16  InnoDB: Shutdown completed; log sequence number 0 4730445
+080929 19:31:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081001 19:31:31  InnoDB: Started; log sequence number 0 4730445
+081001 19:31:31 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081001 19:56:09 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081001 19:56:09  InnoDB: Starting shutdown...
+081001 19:56:12  InnoDB: Shutdown completed; log sequence number 0 4731262
+081001 19:56:12 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081008 19:56:30  InnoDB: Started; log sequence number 0 4731262
+081008 19:56:30 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081008 20:23:38 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081008 20:23:38  InnoDB: Starting shutdown...
+081008 20:23:43  InnoDB: Shutdown completed; log sequence number 0 4731496
+081008 20:23:43 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081010  0:16:45  InnoDB: Started; log sequence number 0 4731496
+081010  0:16:46 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081010 11:34:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081010 11:34:07  InnoDB: Starting shutdown...
+081010 11:34:11  InnoDB: Shutdown completed; log sequence number 0 4731506
+081010 11:34:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081008 11:35:20  InnoDB: Started; log sequence number 0 4731506
+081008 11:35:20 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081008 11:44:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081008 11:44:04  InnoDB: Starting shutdown...
+081008 11:44:09  InnoDB: Shutdown completed; log sequence number 0 4732893
+081008 11:44:09 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081009 11:44:18  InnoDB: Started; log sequence number 0 4732893
+081009 11:44:18 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081009 12:23:40 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081009 12:23:42  InnoDB: Starting shutdown...
+081009 12:23:45  InnoDB: Shutdown completed; log sequence number 0 4737416
+081009 12:23:45 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081011 10:15:15  InnoDB: Started; log sequence number 0 4737416
+081011 10:15:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081011 11:04:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081011 11:04:36  InnoDB: Starting shutdown...
+081011 11:04:40  InnoDB: Shutdown completed; log sequence number 0 4740693
+081011 11:04:40 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081010 11:04:48  InnoDB: Started; log sequence number 0 4740693
+081010 11:04:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081010 11:07:29 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081010 11:07:31  InnoDB: Starting shutdown...
+081011 11:07:35  InnoDB: Shutdown completed; log sequence number 0 4743748
+081011 11:07:35 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081011 11:07:37  InnoDB: Started; log sequence number 0 4743748
+081011 11:07:37 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081011 12:53:28 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081011 12:53:28  InnoDB: Starting shutdown...
+081011 12:53:30  InnoDB: Shutdown completed; log sequence number 0 4790011
+081011 12:53:30 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081010 13:16:30  InnoDB: Started; log sequence number 0 4790011
+081010 13:16:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081010 14:20:40 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081010 14:20:40  InnoDB: Starting shutdown...
+081010 14:20:42  InnoDB: Shutdown completed; log sequence number 0 4797636
+081010 14:20:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081011 14:21:02  InnoDB: Started; log sequence number 0 4797636
+081011 14:21:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081011 14:38:46 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081011 14:38:46  InnoDB: Starting shutdown...
+081011 14:38:49  InnoDB: Shutdown completed; log sequence number 0 4798642
+081011 14:38:49 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081013 19:32:41  InnoDB: Started; log sequence number 0 4798642
+081013 19:32:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081013 19:59:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081013 19:59:14  InnoDB: Starting shutdown...
+081013 19:59:18  InnoDB: Shutdown completed; log sequence number 0 4798652
+081013 19:59:18 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081013 20:02:15  InnoDB: Started; log sequence number 0 4798652
+081013 20:02:15 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081013 20:03:35 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081013 20:03:35  InnoDB: Starting shutdown...
+081013 20:03:38  InnoDB: Shutdown completed; log sequence number 0 4798662
+081013 20:03:38 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081010 20:04:28  InnoDB: Started; log sequence number 0 4798662
+081010 20:04:28 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081010 20:20:38 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081010 20:20:38  InnoDB: Starting shutdown...
+081010 20:20:41  InnoDB: Shutdown completed; log sequence number 0 4798672
+081010 20:20:41 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081013 20:20:51  InnoDB: Started; log sequence number 0 4798672
+081013 20:20:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081013 20:43:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081013 20:43:41  InnoDB: Starting shutdown...
+081013 20:43:46  InnoDB: Shutdown completed; log sequence number 0 4802460
+081013 20:43:46 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081010  9:47:47  InnoDB: Started; log sequence number 0 4802460
+081010  9:47:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081010 11:57:20 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081010 11:57:20  InnoDB: Starting shutdown...
+081010 11:57:22  InnoDB: Shutdown completed; log sequence number 0 4817696
+081010 11:57:22 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081014 11:57:41  InnoDB: Started; log sequence number 0 4817696
+081014 11:57:41 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081014 12:42:54 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081014 12:42:56  InnoDB: Starting shutdown...
+081014 12:43:00  InnoDB: Shutdown completed; log sequence number 0 4820816
+081014 12:43:00 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081015 10:33:12  InnoDB: Started; log sequence number 0 4820816
+081015 10:33:12 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081015 12:18:15 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081015 12:18:15  InnoDB: Starting shutdown...
+081015 12:18:18  InnoDB: Shutdown completed; log sequence number 0 4820826
+081015 12:18:18 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081014 12:18:34  InnoDB: Started; log sequence number 0 4820826
+081014 12:18:35 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081014 12:28:12 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081014 12:28:12  InnoDB: Starting shutdown...
+081014 12:28:17  InnoDB: Shutdown completed; log sequence number 0 4821337
+081014 12:28:17 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081014 12:29:06  InnoDB: Started; log sequence number 0 4821337
+081014 12:29:06 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081014 12:34:28 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081014 12:34:28  InnoDB: Starting shutdown...
+081014 12:34:33  InnoDB: Shutdown completed; log sequence number 0 4821347
+081014 12:34:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081015 12:35:15  InnoDB: Started; log sequence number 0 4821347
+081015 12:35:15 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081015 13:43:53 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081015 13:43:55  InnoDB: Starting shutdown...
+081015 13:43:58  InnoDB: Shutdown completed; log sequence number 0 4824650
+081015 13:43:58 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081019 11:24:12  InnoDB: Started; log sequence number 0 4824650
+081019 11:24:13 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081019 11:34:22 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081019 11:34:22  InnoDB: Starting shutdown...
+081019 11:34:25  InnoDB: Shutdown completed; log sequence number 0 4824699
+081019 11:34:25 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081016 11:34:52  InnoDB: Started; log sequence number 0 4824699
+081016 11:34:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081016 17:43:04 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081016 17:43:04  InnoDB: Starting shutdown...
+081016 17:43:08  InnoDB: Shutdown completed; log sequence number 0 4827983
+081016 17:43:08 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081020 17:43:26  InnoDB: Started; log sequence number 0 4827983
+081020 17:43:26 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081020 18:30:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081020 18:30:53  InnoDB: Starting shutdown...
+081020 18:30:57  InnoDB: Shutdown completed; log sequence number 0 4831333
+081020 18:30:57 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081021 10:07:41  InnoDB: Started; log sequence number 0 4831333
+081021 10:07:41 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081021 10:26:55 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081021 10:26:55  InnoDB: Starting shutdown...
+081021 10:26:59  InnoDB: Shutdown completed; log sequence number 0 4873921
+081021 10:26:59 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081021 12:16:00  InnoDB: Started; log sequence number 0 4873921
+081021 12:16:00 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081021 12:40:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081021 12:40:48  InnoDB: Starting shutdown...
+081021 12:40:51  InnoDB: Shutdown completed; log sequence number 0 4873931
+081021 12:40:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081020 12:41:22  InnoDB: Started; log sequence number 0 4873931
+081020 12:41:23 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081020 12:52:40 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081020 12:52:40  InnoDB: Starting shutdown...
+081020 12:52:43  InnoDB: Shutdown completed; log sequence number 0 4876356
+081020 12:52:43 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081021 12:52:59  InnoDB: Started; log sequence number 0 4876356
+081021 12:52:59 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081021 13:07:01 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081021 13:07:01  InnoDB: Starting shutdown...
+081021 13:07:05  InnoDB: Shutdown completed; log sequence number 0 4877383
+081021 13:07:05 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081010 13:08:38  InnoDB: Started; log sequence number 0 4877383
+081010 13:08:38 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081010 13:46:00 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081010 13:46:00  InnoDB: Starting shutdown...
+081010 13:46:03  InnoDB: Shutdown completed; log sequence number 0 4877393
+081010 13:46:03 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081020 13:46:57  InnoDB: Started; log sequence number 0 4877393
+081020 13:46:57 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081020 14:20:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081020 14:20:36  InnoDB: Starting shutdown...
+081020 14:20:38  InnoDB: Shutdown completed; log sequence number 0 4878568
+081020 14:20:38 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081021 18:41:15  InnoDB: Started; log sequence number 0 4878568
+081021 18:41:15 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081021 18:49:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081021 18:49:48  InnoDB: Starting shutdown...
+081021 18:49:51  InnoDB: Shutdown completed; log sequence number 0 4880835
+081021 18:49:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081020 18:50:02  InnoDB: Started; log sequence number 0 4880835
+081020 18:50:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081020 19:33:58 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081020 19:33:58  InnoDB: Starting shutdown...
+081020 19:34:01  InnoDB: Shutdown completed; log sequence number 0 4889221
+081020 19:34:01 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081010 19:34:09  InnoDB: Started; log sequence number 0 4889221
+081010 19:34:09 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081010 19:57:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081010 19:57:38  InnoDB: Starting shutdown...
+081010 19:57:42  InnoDB: Shutdown completed; log sequence number 0 4891184
+081010 19:57:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081010 19:58:21  InnoDB: Started; log sequence number 0 4891184
+081010 19:58:21 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081010 20:18:15 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081010 20:18:17  InnoDB: Starting shutdown...
+081010 20:18:19  InnoDB: Shutdown completed; log sequence number 0 4892618
+081010 20:18:19 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081015 20:18:49  InnoDB: Started; log sequence number 0 4892618
+081015 20:18:49 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081015 20:29:01 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081015 20:29:01  InnoDB: Starting shutdown...
+081015 20:29:04  InnoDB: Shutdown completed; log sequence number 0 4895327
+081015 20:29:04 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081021 20:29:23  InnoDB: Started; log sequence number 0 4895327
+081021 20:29:23 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081021 20:42:20 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081021 20:42:20  InnoDB: Starting shutdown...
+081021 20:42:24  InnoDB: Shutdown completed; log sequence number 0 4895337
+081021 20:42:24 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081022 10:30:00  InnoDB: Started; log sequence number 0 4895337
+081022 10:30:01 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081022 13:25:55 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081022 13:25:55  InnoDB: Starting shutdown...
+081022 13:25:59  InnoDB: Shutdown completed; log sequence number 0 4911141
+081022 13:25:59 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081022 19:21:56  InnoDB: Started; log sequence number 0 4911141
+081022 19:21:58 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081022 20:35:05 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081022 20:35:05  InnoDB: Starting shutdown...
+081022 20:35:09  InnoDB: Shutdown completed; log sequence number 0 4927979
+081022 20:35:09 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081023  9:47:10  InnoDB: Started; log sequence number 0 4927979
+081023  9:47:10 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081023 13:32:04 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081023 13:32:04  InnoDB: Starting shutdown...
+081023 13:32:07  InnoDB: Shutdown completed; log sequence number 0 4936252
+081023 13:32:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081023 18:50:58  InnoDB: Started; log sequence number 0 4936252
+081023 18:50:59 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081023 19:59:18 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081023 19:59:18  InnoDB: Starting shutdown...
+081023 19:59:21  InnoDB: Shutdown completed; log sequence number 0 4937929
+081023 19:59:21 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081024 10:03:59  InnoDB: Started; log sequence number 0 4937929
+081024 10:04:01 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081024 11:32:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081024 11:32:48  InnoDB: Starting shutdown...
+081024 11:32:51  InnoDB: Shutdown completed; log sequence number 0 4937939
+081024 11:32:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081024 13:30:43  InnoDB: Started; log sequence number 0 4937939
+081024 13:30:45 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081024 19:33:37 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081024 19:33:37  InnoDB: Starting shutdown...
+081024 19:33:38  InnoDB: Shutdown completed; log sequence number 0 4937949
+081024 19:33:38 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081025 11:18:58  InnoDB: Started; log sequence number 0 4937949
+081025 11:19:04 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081025 14:23:13 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081025 14:23:13  InnoDB: Starting shutdown...
+081025 14:23:16  InnoDB: Shutdown completed; log sequence number 0 4937959
+081025 14:23:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081027 11:04:04  InnoDB: Started; log sequence number 0 4937959
+081027 11:04:06 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081027 11:23:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081027 11:23:51  InnoDB: Starting shutdown...
+081027 11:23:55  InnoDB: Shutdown completed; log sequence number 0 4937969
+081027 11:23:55 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081027 11:26:02  InnoDB: Started; log sequence number 0 4937969
+081027 11:26:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081027 11:45:27 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081027 11:45:29  InnoDB: Starting shutdown...
+081027 11:45:33  InnoDB: Shutdown completed; log sequence number 0 4937979
+081027 11:45:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081023 11:45:44  InnoDB: Started; log sequence number 0 4937979
+081023 11:45:44 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081023 13:03:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081023 13:03:09  InnoDB: Starting shutdown...
+081023 13:03:12  InnoDB: Shutdown completed; log sequence number 0 4938954
+081023 13:03:12 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081023 12:09:48  InnoDB: Started; log sequence number 0 4938954
+081023 12:09:49 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081023 12:23:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081023 12:23:36  InnoDB: Starting shutdown...
+081023 12:23:39  InnoDB: Shutdown completed; log sequence number 0 4943069
+081023 12:23:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081024 12:24:00  InnoDB: Started; log sequence number 0 4943069
+081024 12:24:00 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081024 12:24:36  InnoDB: Started; log sequence number 0 4943069
+081024 12:24:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081024 13:05:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081024 13:05:52  InnoDB: Starting shutdown...
+081024 13:05:57  InnoDB: Shutdown completed; log sequence number 0 4949938
+081024 13:05:57 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081025 13:06:19  InnoDB: Started; log sequence number 0 4949938
+081025 13:06:19 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081025 13:36:41 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081025 13:36:41  InnoDB: Starting shutdown...
+081025 13:36:44  InnoDB: Shutdown completed; log sequence number 0 4956153
+081025 13:36:44 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081027 13:36:56  InnoDB: Started; log sequence number 0 4956153
+081027 13:36:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081027 13:46:57 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081027 13:46:59  InnoDB: Starting shutdown...
+081027 13:47:03  InnoDB: Shutdown completed; log sequence number 0 4963568
+081027 13:47:03 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081023 13:50:07  InnoDB: Started; log sequence number 0 4963568
+081023 13:50:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081023 13:52:31 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081023 13:52:33  InnoDB: Starting shutdown...
+081025 13:52:37  InnoDB: Shutdown completed; log sequence number 0 4963578
+081025 13:52:37 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081025 13:52:44  InnoDB: Started; log sequence number 0 4963578
+081025 13:52:44 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081025 13:58:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081025 13:58:48  InnoDB: Starting shutdown...
+081025 13:58:53  InnoDB: Shutdown completed; log sequence number 0 4964539
+081025 13:58:53 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081023 13:59:15  InnoDB: Started; log sequence number 0 4964539
+081023 13:59:15 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081023 14:02:58 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081023 14:02:58  InnoDB: Starting shutdown...
+081023 14:03:02  InnoDB: Shutdown completed; log sequence number 0 4965814
+081023 14:03:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081027 14:03:51  InnoDB: Started; log sequence number 0 4965814
+081027 14:03:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081027 14:08:38 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081027 14:08:38  InnoDB: Starting shutdown...
+081027 14:08:41  InnoDB: Shutdown completed; log sequence number 0 4967724
+081027 14:08:41 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081028 14:09:42  InnoDB: Started; log sequence number 0 4967724
+081028 14:09:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081028 16:53:47 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081028 16:53:47  InnoDB: Starting shutdown...
+081028 16:53:48  InnoDB: Shutdown completed; log sequence number 0 4967773
+081028 16:53:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081028 13:07:25  InnoDB: Started; log sequence number 0 4967773
+081028 13:07:28 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081028 13:23:28 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081028 13:23:28  InnoDB: Starting shutdown...
+081028 13:23:32  InnoDB: Shutdown completed; log sequence number 0 4969451
+081028 13:23:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081028 18:18:01  InnoDB: Started; log sequence number 0 4969451
+081028 18:18:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081028 18:32:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081028 18:32:14  InnoDB: Starting shutdown...
+081028 18:32:20  InnoDB: Shutdown completed; log sequence number 0 4969708
+081028 18:32:20 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081029 12:20:23  InnoDB: Started; log sequence number 0 4969708
+081029 12:20:25 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081029 12:50:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081029 12:50:34  InnoDB: Starting shutdown...
+081029 12:50:38  InnoDB: Shutdown completed; log sequence number 0 4971578
+081029 12:50:38 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081029 18:22:27  InnoDB: Started; log sequence number 0 4971578
+081029 18:22:28 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081029 18:24:13 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081029 18:24:13  InnoDB: Starting shutdown...
+081029 18:24:18  InnoDB: Shutdown completed; log sequence number 0 4971588
+081029 18:24:18 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081030  9:57:00  InnoDB: Started; log sequence number 0 4971588
+081030  9:57:01 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081030 14:35:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081030 14:35:42  InnoDB: Starting shutdown...
+081030 14:35:44  InnoDB: Shutdown completed; log sequence number 0 4975359
+081030 14:35:44 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081031 14:37:10  InnoDB: Started; log sequence number 0 4975359
+081031 14:37:10 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081031 15:07:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081031 15:07:32  InnoDB: Starting shutdown...
+081031 15:07:34  InnoDB: Shutdown completed; log sequence number 0 5006287
+081031 15:07:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081103 11:44:07  InnoDB: Started; log sequence number 0 5006287
+081103 11:44:08 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081103 13:03:20 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081103 13:03:20  InnoDB: Starting shutdown...
+081103 13:03:22  InnoDB: Shutdown completed; log sequence number 0 5006297
+081103 13:03:22 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081031 13:04:04  InnoDB: Started; log sequence number 0 5006297
+081031 13:04:04 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081031 14:35:28 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081031 14:35:30  InnoDB: Starting shutdown...
+081031 14:35:33  InnoDB: Shutdown completed; log sequence number 0 5007847
+081031 14:35:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081031 18:04:29  InnoDB: Started; log sequence number 0 5007847
+081031 18:04:31 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081031 19:48:23 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081031 19:48:23  InnoDB: Starting shutdown...
+081031 19:48:26  InnoDB: Shutdown completed; log sequence number 0 5007857
+081031 19:48:26 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081101 10:07:05  InnoDB: Started; log sequence number 0 5007857
+081101 10:07:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081101 10:46:37 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081101 10:46:37  InnoDB: Starting shutdown...
+081101 10:46:40  InnoDB: Shutdown completed; log sequence number 0 5007867
+081101 10:46:40 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081102 12:49:04  InnoDB: Started; log sequence number 0 5007867
+081102 12:49:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081102 13:03:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081102 13:03:33  InnoDB: Starting shutdown...
+081102 13:03:38  InnoDB: Shutdown completed; log sequence number 0 5007893
+081102 13:03:38 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081103 13:42:34  InnoDB: Started; log sequence number 0 5007893
+081103 13:42:35 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081103 14:32:59 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081103 14:32:59  InnoDB: Starting shutdown...
+081103 14:33:02  InnoDB: Shutdown completed; log sequence number 0 5010298
+081103 14:33:03 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081104 14:33:36  InnoDB: Started; log sequence number 0 5010298
+081104 14:33:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081104 14:39:45 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081104 14:39:45  InnoDB: Starting shutdown...
+081104 14:39:48  InnoDB: Shutdown completed; log sequence number 0 5012743
+081104 14:39:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081105 14:39:59  InnoDB: Started; log sequence number 0 5012743
+081105 14:39:59 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081105 14:45:41 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081105 14:45:42  InnoDB: Starting shutdown...
+081105 14:45:45  InnoDB: Shutdown completed; log sequence number 0 5013531
+081105 14:45:45 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081105 18:12:10  InnoDB: Started; log sequence number 0 5013531
+081105 18:12:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081105 19:28:20 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081105 19:28:20  InnoDB: Starting shutdown...
+081105 19:28:25  InnoDB: Shutdown completed; log sequence number 0 5019199
+081105 19:28:25 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081106  9:03:14  InnoDB: Started; log sequence number 0 5019199
+081106  9:03:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081106 11:50:37 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081106 11:50:39  InnoDB: Starting shutdown...
+081106 11:50:42  InnoDB: Shutdown completed; log sequence number 0 5021393
+081106 11:50:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081106 19:22:21  InnoDB: Started; log sequence number 0 5021393
+081106 19:22:21 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081106 19:35:27 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081106 19:35:27  InnoDB: Starting shutdown...
+081106 19:35:31  InnoDB: Shutdown completed; log sequence number 0 5025529
+081106 19:35:31 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081107  9:29:39  InnoDB: Started; log sequence number 0 5025529
+081107  9:29:40 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081107 14:38:05 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081107 14:38:05  InnoDB: Starting shutdown...
+081107 14:38:08  InnoDB: Shutdown completed; log sequence number 0 5030108
+081107 14:38:08 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081108 10:51:44  InnoDB: Started; log sequence number 0 5030108
+081108 10:51:46 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081108 13:50:30  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+081108 13:50:33  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5030118.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5030118
+081108 13:50:34  InnoDB: Started; log sequence number 0 5030118
+081108 13:50:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081108 14:40:29 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081108 14:40:29  InnoDB: Starting shutdown...
+081108 14:40:33  InnoDB: Shutdown completed; log sequence number 0 5036461
+081108 14:40:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081110 10:13:08  InnoDB: Started; log sequence number 0 5036461
+081110 10:13:10 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081110 10:40:53 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081110 10:40:53  InnoDB: Starting shutdown...
+081110 10:40:57  InnoDB: Shutdown completed; log sequence number 0 5038266
+081110 10:40:57 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081107 10:41:11  InnoDB: Started; log sequence number 0 5038266
+081107 10:41:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081107 12:53:15 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081107 12:53:17  InnoDB: Starting shutdown...
+081107 12:53:20  InnoDB: Shutdown completed; log sequence number 0 5038896
+081107 12:53:20 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081110 12:54:07  InnoDB: Started; log sequence number 0 5038896
+081110 12:54:08 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081110 15:50:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081110 15:50:33  InnoDB: Starting shutdown...
+081110 15:50:37  InnoDB: Shutdown completed; log sequence number 0 5039711
+081110 15:50:37 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081111 10:09:40  InnoDB: Started; log sequence number 0 5039711
+081111 10:09:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081111 11:28:27 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081111 11:28:27  InnoDB: Starting shutdown...
+081111 11:28:28  InnoDB: Shutdown completed; log sequence number 0 5040079
+081111 11:28:28 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081111 11:33:03  InnoDB: Started; log sequence number 0 5040079
+081111 11:33:03 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081111 12:10:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081111 12:10:33  InnoDB: Starting shutdown...
+081111 12:10:35  InnoDB: Shutdown completed; log sequence number 0 5047685
+081111 12:10:35 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081110 12:10:51  InnoDB: Started; log sequence number 0 5047685
+081110 12:10:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081110 12:23:24 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081110 12:23:24  InnoDB: Starting shutdown...
+081110 12:23:28  InnoDB: Shutdown completed; log sequence number 0 5051090
+081110 12:23:28 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081111 12:23:35  InnoDB: Started; log sequence number 0 5051090
+081111 12:23:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081111 12:37:31 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081111 12:37:31  InnoDB: Starting shutdown...
+081111 12:37:34  InnoDB: Shutdown completed; log sequence number 0 5054289
+081111 12:37:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081111 12:38:38  InnoDB: Started; log sequence number 0 5054289
+081111 12:38:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081111 13:01:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081111 13:01:39  InnoDB: Starting shutdown...
+081111 13:01:43  InnoDB: Shutdown completed; log sequence number 0 5060782
+081111 13:01:43 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081107 13:03:21  InnoDB: Started; log sequence number 0 5060782
+081107 13:03:21 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081107 13:05:41 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081107 13:05:41  InnoDB: Starting shutdown...
+081107 13:05:44  InnoDB: Shutdown completed; log sequence number 0 5061412
+081107 13:05:44 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081110 13:59:31  InnoDB: Started; log sequence number 0 5061412
+081110 13:59:31 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081110 14:20:08 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081110 14:20:08  InnoDB: Starting shutdown...
+081110 14:20:12  InnoDB: Shutdown completed; log sequence number 0 5062690
+081110 14:20:12 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081111 14:20:21  InnoDB: Started; log sequence number 0 5062690
+081111 14:20:21 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081111 14:24:44 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081111 14:24:44  InnoDB: Starting shutdown...
+081111 14:24:47  InnoDB: Shutdown completed; log sequence number 0 5062700
+081111 14:24:47 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081111 16:17:00  InnoDB: Started; log sequence number 0 5062700
+081111 16:17:01 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081111 17:07:08 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081111 17:07:08  InnoDB: Starting shutdown...
+081111 17:07:12  InnoDB: Shutdown completed; log sequence number 0 5064056
+081111 17:07:12 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081111 19:30:52  InnoDB: Started; log sequence number 0 5064056
+081111 19:30:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081111 19:31:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081111 19:31:11  InnoDB: Starting shutdown...
+081111 19:31:15  InnoDB: Shutdown completed; log sequence number 0 5064066
+081111 19:31:15 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081112 10:57:48  InnoDB: Started; log sequence number 0 5064066
+081112 10:57:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081112 14:59:47  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+081112 14:59:53  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5064076.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5064076
+081112 14:59:54  InnoDB: Started; log sequence number 0 5064076
+081112 14:59:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081112 15:13:45 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081112 15:13:45  InnoDB: Starting shutdown...
+081112 15:13:48  InnoDB: Shutdown completed; log sequence number 0 5066696
+081112 15:13:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081113 10:19:01  InnoDB: Started; log sequence number 0 5066696
+081113 10:19:01 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081113 10:22:41 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081113 10:22:41  InnoDB: Starting shutdown...
+081113 10:22:44  InnoDB: Shutdown completed; log sequence number 0 5066745
+081113 10:22:44 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081112 10:23:05  InnoDB: Started; log sequence number 0 5066745
+081112 10:23:05 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081112 10:28:54 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081112 10:28:54  InnoDB: Starting shutdown...
+081112 10:28:57  InnoDB: Shutdown completed; log sequence number 0 5067404
+081112 10:28:57 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081113 12:49:11  InnoDB: Started; log sequence number 0 5067404
+081113 12:49:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081113 14:55:23 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081113 14:55:23  InnoDB: Starting shutdown...
+081113 14:55:24  InnoDB: Shutdown completed; log sequence number 0 5069774
+081113 14:55:24 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081114 10:17:59  InnoDB: Started; log sequence number 0 5069774
+081114 10:18:00 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081114 11:19:08 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081114 11:19:09  InnoDB: Starting shutdown...
+081114 11:19:11  InnoDB: Shutdown completed; log sequence number 0 5069784
+081114 11:19:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081114 18:17:29  InnoDB: Started; log sequence number 0 5069784
+081114 18:17:29 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081114 18:29:43 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081114 18:29:43  InnoDB: Starting shutdown...
+081114 18:29:47  InnoDB: Shutdown completed; log sequence number 0 5069794
+081114 18:29:47 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081115 10:29:21  InnoDB: Started; log sequence number 0 5069794
+081115 10:29:23 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081115 12:52:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081115 12:52:34  InnoDB: Starting shutdown...
+081115 12:52:36  InnoDB: Shutdown completed; log sequence number 0 5070867
+081115 12:52:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081113 12:06:20  InnoDB: Started; log sequence number 0 5070867
+081113 12:06:22 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081113 12:08:22 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081113 12:08:22  InnoDB: Starting shutdown...
+081114 12:08:24  InnoDB: Shutdown completed; log sequence number 0 5070877
+081114 12:08:24 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081114 12:08:33  InnoDB: Started; log sequence number 0 5070877
+081114 12:08:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081114 12:22:11 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081114 12:22:11  InnoDB: Starting shutdown...
+081114 12:22:16  InnoDB: Shutdown completed; log sequence number 0 5070887
+081114 12:22:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081114 14:53:50  InnoDB: Started; log sequence number 0 5070887
+081114 14:53:58 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081114 15:17:22 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081114 15:17:22  InnoDB: Starting shutdown...
+081114 15:17:26  InnoDB: Shutdown completed; log sequence number 0 5070897
+081114 15:17:26 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081118 11:04:15  InnoDB: Started; log sequence number 0 5070897
+081118 11:04:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081118 12:36:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081118 12:36:51  InnoDB: Starting shutdown...
+081118 12:36:55  InnoDB: Shutdown completed; log sequence number 0 5070907
+081118 12:36:55 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081118 12:37:02  InnoDB: Started; log sequence number 0 5070907
+081118 12:37:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081118 13:01:50 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081118 13:01:52  InnoDB: Starting shutdown...
+081118 13:01:57  InnoDB: Shutdown completed; log sequence number 0 5070917
+081118 13:01:57 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081118 19:24:26  InnoDB: Started; log sequence number 0 5070917
+081118 19:24:27 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081118 19:28:55 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081118 19:28:56  InnoDB: Starting shutdown...
+081118 19:28:58  InnoDB: Shutdown completed; log sequence number 0 5070927
+081118 19:28:59 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081114 19:29:10  InnoDB: Started; log sequence number 0 5070927
+081114 19:29:10 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081114 19:34:13 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081114 19:34:15  InnoDB: Starting shutdown...
+081118 19:34:20  InnoDB: Shutdown completed; log sequence number 0 5072726
+081118 19:34:20 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081118 19:34:21  InnoDB: Started; log sequence number 0 5072726
+081118 19:34:21 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081118 20:06:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081118 20:06:54  InnoDB: Starting shutdown...
+081118 20:06:57  InnoDB: Shutdown completed; log sequence number 0 5074805
+081118 20:06:57 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081119 12:51:21  InnoDB: Started; log sequence number 0 5074805
+081119 12:51:21 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081119 12:52:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081119 12:52:32  InnoDB: Starting shutdown...
+081119 12:52:35  InnoDB: Shutdown completed; log sequence number 0 5074854
+081119 12:52:35 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081119 12:14:57  InnoDB: Started; log sequence number 0 5074854
+081119 12:15:01 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081119 12:48:37 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081119 12:48:37  InnoDB: Starting shutdown...
+081119 12:48:40  InnoDB: Shutdown completed; log sequence number 0 5083844
+081119 12:48:40 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081120 12:49:14  InnoDB: Started; log sequence number 0 5083844
+081120 12:49:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081120 16:49:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081120 16:49:37  InnoDB: Starting shutdown...
+081120 16:49:39  InnoDB: Shutdown completed; log sequence number 0 5088114
+081120 16:49:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081121 11:10:24  InnoDB: Started; log sequence number 0 5088114
+081121 11:10:25 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081118 14:27:22 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081118 14:27:22  InnoDB: Starting shutdown...
+081118 14:27:26  InnoDB: Shutdown completed; log sequence number 0 5088163
+081118 14:27:26 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081118 14:27:32  InnoDB: Started; log sequence number 0 5088163
+081118 14:27:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081118 14:29:20 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081118 14:29:20  InnoDB: Starting shutdown...
+081118 14:29:23  InnoDB: Shutdown completed; log sequence number 0 5088809
+081118 14:29:23 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081121 14:29:34  InnoDB: Started; log sequence number 0 5088809
+081121 14:29:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081121 15:15:59 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081121 15:15:59  InnoDB: Starting shutdown...
+081121 15:16:00  InnoDB: Shutdown completed; log sequence number 0 5088819
+081121 15:16:00 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081122 10:08:46  InnoDB: Started; log sequence number 0 5088819
+081122 10:08:47 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081122 10:20:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081122 10:20:32  InnoDB: Starting shutdown...
+081122 10:20:35  InnoDB: Shutdown completed; log sequence number 0 5088829
+081122 10:20:35 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081122 12:15:51  InnoDB: Started; log sequence number 0 5088829
+081122 12:15:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081121 13:58:09 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081121 13:58:09  InnoDB: Starting shutdown...
+081121 13:58:14  InnoDB: Shutdown completed; log sequence number 0 5088839
+081121 13:58:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081121 13:58:16  InnoDB: Started; log sequence number 0 5088839
+081121 13:58:17 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081122 15:36:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081122 15:36:07  InnoDB: Starting shutdown...
+081122 15:36:10  InnoDB: Shutdown completed; log sequence number 0 5094196
+081122 15:36:10 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081122 15:36:19  InnoDB: Started; log sequence number 0 5094196
+081122 15:36:19 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081122 16:08:53 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081122 16:08:55  InnoDB: Starting shutdown...
+081122 16:08:58  InnoDB: Shutdown completed; log sequence number 0 5098741
+081122 16:08:58 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081124  9:40:26  InnoDB: Started; log sequence number 0 5098741
+081124  9:40:26 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081124 13:41:15 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081124 13:41:15  InnoDB: Starting shutdown...
+081124 13:41:17  InnoDB: Shutdown completed; log sequence number 0 5098790
+081124 13:41:17 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081125  9:55:02  InnoDB: Started; log sequence number 0 5098790
+081125  9:55:03 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081125 10:00:13 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081125 10:00:15  InnoDB: Starting shutdown...
+081125 10:00:19  InnoDB: Shutdown completed; log sequence number 0 5098800
+081125 10:00:19 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081124 18:13:20  InnoDB: Started; log sequence number 0 5098800
+081124 18:13:23 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081124 18:34:47 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081124 18:34:47  InnoDB: Starting shutdown...
+081124 18:34:49  InnoDB: Shutdown completed; log sequence number 0 5108101
+081124 18:34:49 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081125 18:35:02  InnoDB: Started; log sequence number 0 5108101
+081125 18:35:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081125 19:28:17  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+081125 19:28:28  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5112534.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5112534
+081125 19:28:31  InnoDB: Started; log sequence number 0 5112534
+081125 19:28:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081125 19:28:47  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+081125 19:28:57  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5112573.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5112573
+081126 10:37:16  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+081126 10:37:18  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5112573.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5112573
+081126 10:37:19  InnoDB: Started; log sequence number 0 5112573
+081126 10:37:20 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081126 12:09:45 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081126 12:09:45  InnoDB: Starting shutdown...
+081126 12:09:47  InnoDB: Shutdown completed; log sequence number 0 5112583
+081126 12:09:47 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081126 15:20:20  InnoDB: Started; log sequence number 0 5112583
+081126 15:20:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081126 19:29:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081126 19:29:33  InnoDB: Starting shutdown...
+081126 19:29:35  InnoDB: Shutdown completed; log sequence number 0 5112593
+081126 19:29:35 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081127 10:09:44  InnoDB: Started; log sequence number 0 5112593
+081127 10:09:46 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081127 10:28:28 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081127 10:28:28  InnoDB: Starting shutdown...
+081127 10:28:33  InnoDB: Shutdown completed; log sequence number 0 5112603
+081127 10:28:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081127 11:14:13  InnoDB: Started; log sequence number 0 5112603
+081127 11:14:13 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081127 14:46:04 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081127 14:46:04  InnoDB: Starting shutdown...
+081127 14:46:07  InnoDB: Shutdown completed; log sequence number 0 5112613
+081127 14:46:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081127 18:30:06  InnoDB: Started; log sequence number 0 5112613
+081127 18:30:08 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081127 20:26:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081127 20:26:14  InnoDB: Starting shutdown...
+081127 20:26:17  InnoDB: Shutdown completed; log sequence number 0 5112623
+081127 20:26:17 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081126 20:26:43  InnoDB: Started; log sequence number 0 5112623
+081126 20:26:43 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081126 20:41:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081126 20:41:48  InnoDB: Starting shutdown...
+081127 20:41:54  InnoDB: Shutdown completed; log sequence number 0 5126326
+081127 20:41:54 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081127 20:41:55  InnoDB: Started; log sequence number 0 5126326
+081127 20:41:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081127 21:19:05 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081127 21:19:07  InnoDB: Starting shutdown...
+081127 21:19:08  InnoDB: Shutdown completed; log sequence number 0 5147187
+081127 21:19:08 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081128 10:35:49  InnoDB: Started; log sequence number 0 5147187
+081128 10:35:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081128 10:43:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081128 10:43:52  InnoDB: Starting shutdown...
+081128 10:43:56  InnoDB: Shutdown completed; log sequence number 0 5147275
+081128 10:43:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081128 10:44:56  InnoDB: Started; log sequence number 0 5147275
+081128 10:44:57 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081128 17:36:44  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+081128 17:39:19 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081128 17:39:19  InnoDB: Starting shutdown...
+081128 17:39:23  InnoDB: Shutdown completed; log sequence number 0 5163342
+081128 17:39:24 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081129 10:44:50  InnoDB: Started; log sequence number 0 5163342
+081129 10:44:55 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081201 15:52:19 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081201 15:52:19  InnoDB: Starting shutdown...
+081201 15:52:23  InnoDB: Shutdown completed; log sequence number 0 5164072
+081201 15:52:23 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081201 15:52:55  InnoDB: Started; log sequence number 0 5164072
+081201 15:52:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081201 16:10:30  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+081201 16:17:03 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081201 16:17:05  InnoDB: Starting shutdown...
+081201 16:17:08  InnoDB: Shutdown completed; log sequence number 0 5177777
+081201 16:17:08 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081203 18:12:25  InnoDB: Started; log sequence number 0 5177777
+081203 18:12:30 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081203 19:18:01 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081203 19:18:01  InnoDB: Starting shutdown...
+081203 19:18:05  InnoDB: Shutdown completed; log sequence number 0 5177787
+081203 19:18:05 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081201 19:18:24  InnoDB: Started; log sequence number 0 5177787
+081201 19:18:24 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081201 19:26:38 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081201 19:26:38  InnoDB: Starting shutdown...
+081201 19:26:40  InnoDB: Shutdown completed; log sequence number 0 5180104
+081201 19:26:40 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081202 10:05:52  InnoDB: Started; log sequence number 0 5180104
+081202 10:05:54 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081202 11:25:30 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081202 11:25:30  InnoDB: Starting shutdown...
+081202 11:25:33  InnoDB: Shutdown completed; log sequence number 0 5180153
+081202 11:25:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081201 11:25:44  InnoDB: Started; log sequence number 0 5180153
+081201 11:25:44 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081201 11:49:50 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081202 11:49:51  InnoDB: Starting shutdown...
+081202 11:49:53  InnoDB: Shutdown completed; log sequence number 0 5185224
+081202 11:49:53 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081202 11:50:01  InnoDB: Started; log sequence number 0 5185224
+081202 11:50:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081202 16:16:04 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081202 16:16:04  InnoDB: Starting shutdown...
+081202 16:16:09  InnoDB: Shutdown completed; log sequence number 0 5197513
+081202 16:16:09 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081201 16:16:22  InnoDB: Started; log sequence number 0 5197513
+081201 16:16:22 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081201 16:27:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081201 16:27:02  InnoDB: Starting shutdown...
+081202 16:27:03  InnoDB: Shutdown completed; log sequence number 0 5198775
+081202 16:27:03 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081202 16:27:10  InnoDB: Started; log sequence number 0 5198775
+081202 16:27:10 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081202 17:34:26 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081202 17:34:28  InnoDB: Starting shutdown...
+081202 17:34:31  InnoDB: Shutdown completed; log sequence number 0 5198785
+081202 17:34:31 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081203 13:37:12  InnoDB: Started; log sequence number 0 5198785
+081203 13:37:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081203 13:40:30 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081203 13:40:30  InnoDB: Starting shutdown...
+081203 13:40:34  InnoDB: Shutdown completed; log sequence number 0 5198795
+081203 13:40:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081203 18:45:40  InnoDB: Started; log sequence number 0 5198795
+081203 18:45:41 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081203 19:26:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081203 19:26:36  InnoDB: Starting shutdown...
+081203 19:26:39  InnoDB: Shutdown completed; log sequence number 0 5198805
+081203 19:26:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081204 11:18:48  InnoDB: Started; log sequence number 0 5198805
+081204 11:18:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081204 12:04:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081204 12:04:48  InnoDB: Starting shutdown...
+081204 12:04:52  InnoDB: Shutdown completed; log sequence number 0 5200683
+081204 12:04:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081203 12:05:17  InnoDB: Started; log sequence number 0 5200683
+081203 12:05:17 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081203 15:00:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081203 15:00:56  InnoDB: Starting shutdown...
+081203 15:01:00  InnoDB: Shutdown completed; log sequence number 0 5208820
+081203 15:01:00 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081203 19:28:11  InnoDB: Started; log sequence number 0 5208820
+081203 19:28:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081203 20:08:45 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081203 20:08:45  InnoDB: Starting shutdown...
+081203 20:08:48  InnoDB: Shutdown completed; log sequence number 0 5222390
+081203 20:08:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081204 20:09:00  InnoDB: Started; log sequence number 0 5222390
+081204 20:09:00 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081204 20:32:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081204 20:32:33  InnoDB: Starting shutdown...
+081204 20:32:38  InnoDB: Shutdown completed; log sequence number 0 5228066
+081204 20:32:38 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081203 11:17:44  InnoDB: Started; log sequence number 0 5228066
+081203 11:17:46 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081203 11:22:44 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081203 11:22:44  InnoDB: Starting shutdown...
+081203 11:22:49  InnoDB: Shutdown completed; log sequence number 0 5228076
+081203 11:22:49 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081203 11:24:39  InnoDB: Started; log sequence number 0 5228076
+081203 11:24:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081203 11:32:13 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081203 11:32:13  InnoDB: Starting shutdown...
+081205 11:32:17  InnoDB: Shutdown completed; log sequence number 0 5230164
+081205 11:32:17 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081205 11:41:23  InnoDB: Started; log sequence number 0 5230164
+081205 11:41:24 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081205 12:20:03 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081205 12:20:03  InnoDB: Starting shutdown...
+081205 12:20:07  InnoDB: Shutdown completed; log sequence number 0 5230174
+081205 12:20:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081205 12:46:49  InnoDB: Started; log sequence number 0 5230174
+081205 12:46:49 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081205 12:48:41 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081205 12:48:41  InnoDB: Starting shutdown...
+081205 12:48:45  InnoDB: Shutdown completed; log sequence number 0 5230184
+081205 12:48:45 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081205 13:06:59  InnoDB: Started; log sequence number 0 5230184
+081205 13:07:00 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081205 13:08:47 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081205 13:08:47  InnoDB: Starting shutdown...
+081205 13:08:50  InnoDB: Shutdown completed; log sequence number 0 5230194
+081205 13:08:50 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081205 13:36:46  InnoDB: Started; log sequence number 0 5230194
+081205 13:36:46 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081205 13:38:24 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081205 13:38:24  InnoDB: Starting shutdown...
+081205 13:38:29  InnoDB: Shutdown completed; log sequence number 0 5230204
+081205 13:38:29 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081205 13:38:30  InnoDB: Started; log sequence number 0 5230204
+081205 13:38:31 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081205 13:39:31 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081205 13:39:31  InnoDB: Starting shutdown...
+081205 13:39:35  InnoDB: Shutdown completed; log sequence number 0 5230214
+081205 13:39:35 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081205 14:16:27  InnoDB: Started; log sequence number 0 5230214
+081205 14:16:27 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081205 14:17:58 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081205 14:17:58  InnoDB: Starting shutdown...
+081205 14:18:02  InnoDB: Shutdown completed; log sequence number 0 5230224
+081205 14:18:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081206  9:53:14  InnoDB: Started; log sequence number 0 5230224
+081206  9:53:18 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081206  9:54:00  InnoDB: Started; log sequence number 0 5230224
+081206  9:54:00 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081206 10:27:42  InnoDB: Started; log sequence number 0 5230224
+081206 10:27:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081206 10:32:26 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081206 10:32:26  InnoDB: Starting shutdown...
+081206 10:32:29  InnoDB: Shutdown completed; log sequence number 0 5230234
+081206 10:32:29 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081205 11:25:55  InnoDB: Started; log sequence number 0 5230234
+081205 11:25:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081205 11:57:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081205 11:57:48  InnoDB: Starting shutdown...
+081205 11:57:51  InnoDB: Shutdown completed; log sequence number 0 5230244
+081205 11:57:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081205 11:58:58  InnoDB: Started; log sequence number 0 5230244
+081205 11:58:58 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081205 12:16:09 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081205 12:16:11  InnoDB: Starting shutdown...
+081205 12:16:19  InnoDB: Shutdown completed; log sequence number 0 5230254
+081205 12:16:19 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081205 12:16:20  InnoDB: Started; log sequence number 0 5230254
+081205 12:16:21 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081205 12:25:24 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081205 12:25:24  InnoDB: Starting shutdown...
+081205 12:25:27  InnoDB: Shutdown completed; log sequence number 0 5236870
+081205 12:25:27 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081206 12:25:50  InnoDB: Started; log sequence number 0 5236870
+081206 12:25:50 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081206 12:26:05  InnoDB: Started; log sequence number 0 5236870
+081206 12:26:05 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081206 12:39:45  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ibdata1
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+081206 13:08:20 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081206 13:08:20  InnoDB: Starting shutdown...
+081206 13:08:24  InnoDB: Shutdown completed; log sequence number 0 5241748
+081206 13:08:24 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081206 13:09:05  InnoDB: Started; log sequence number 0 5241748
+081206 13:09:05 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081206 14:37:01 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081206 14:37:03  InnoDB: Starting shutdown...
+081206 14:37:06  InnoDB: Shutdown completed; log sequence number 0 5241758
+081206 14:37:06 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081208 11:24:49  InnoDB: Started; log sequence number 0 5241758
+081208 11:24:51 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081208 11:52:29 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081208 11:52:29  InnoDB: Starting shutdown...
+081208 11:52:34  InnoDB: Shutdown completed; log sequence number 0 5241768
+081208 11:52:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081205 11:52:49  InnoDB: Started; log sequence number 0 5241768
+081205 11:52:49 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081205 11:59:29 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081205 11:59:31  InnoDB: Starting shutdown...
+081205 11:59:34  InnoDB: Shutdown completed; log sequence number 0 5243059
+081205 11:59:34 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081208 11:59:47  InnoDB: Started; log sequence number 0 5243059
+081208 11:59:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081208 12:29:47 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081208 12:29:49  InnoDB: Starting shutdown...
+081208 12:29:52  InnoDB: Shutdown completed; log sequence number 0 5244737
+081208 12:29:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081209 12:05:44  InnoDB: Started; log sequence number 0 5244737
+081209 12:05:46 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081209 15:22:15 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081209 15:22:15  InnoDB: Starting shutdown...
+081209 15:22:16  InnoDB: Shutdown completed; log sequence number 0 5244786
+081209 15:22:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081210 10:17:36  InnoDB: Started; log sequence number 0 5244786
+081210 10:17:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081210 10:37:55 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081210 10:37:55  InnoDB: Starting shutdown...
+081210 10:37:58  InnoDB: Shutdown completed; log sequence number 0 5245046
+081210 10:37:59 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081210 17:16:26  InnoDB: Started; log sequence number 0 5245046
+081210 17:16:27 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081210 19:12:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081210 19:12:14  InnoDB: Starting shutdown...
+081210 19:12:17  InnoDB: Shutdown completed; log sequence number 0 5245056
+081210 19:12:17 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081208 19:12:26  InnoDB: Started; log sequence number 0 5245056
+081208 19:12:26 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081208 19:22:46 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081208 19:22:47  InnoDB: Starting shutdown...
+081209 19:22:54  InnoDB: Shutdown completed; log sequence number 0 5246832
+081209 19:22:54 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081209 19:22:56  InnoDB: Started; log sequence number 0 5246832
+081209 19:22:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081209 19:44:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081209 19:44:34  InnoDB: Starting shutdown...
+081209 19:44:37  InnoDB: Shutdown completed; log sequence number 0 5253402
+081209 19:44:37 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081210 19:44:45  InnoDB: Started; log sequence number 0 5253402
+081210 19:44:45 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081208 19:52:45 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081208 19:52:45  InnoDB: Starting shutdown...
+081208 19:52:48  InnoDB: Shutdown completed; log sequence number 0 5257840
+081208 19:52:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081208 19:52:56  InnoDB: Started; log sequence number 0 5257840
+081208 19:52:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081208 19:56:09 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081208 19:56:11  InnoDB: Starting shutdown...
+081210 19:56:12  InnoDB: Shutdown completed; log sequence number 0 5259915
+081210 19:56:12 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081210 19:56:21  InnoDB: Started; log sequence number 0 5259915
+081210 19:56:21 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081210 20:00:24 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081210 20:00:26  InnoDB: Starting shutdown...
+081210 20:00:30  InnoDB: Shutdown completed; log sequence number 0 5259925
+081210 20:00:30 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081211 11:29:23  InnoDB: Started; log sequence number 0 5259925
+081211 11:29:25 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081211 15:27:12 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081211 15:27:12  InnoDB: Starting shutdown...
+081211 15:27:15  InnoDB: Shutdown completed; log sequence number 0 5259935
+081211 15:27:15 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081213 11:02:09  InnoDB: Started; log sequence number 0 5259935
+081213 11:02:10 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081213 15:02:50 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081213 15:02:50  InnoDB: Starting shutdown...
+081213 15:02:52  InnoDB: Shutdown completed; log sequence number 0 5259945
+081213 15:02:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081212 16:56:40  InnoDB: Started; log sequence number 0 5259945
+081212 16:56:44 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081212 17:09:46 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081212 17:09:46  InnoDB: Starting shutdown...
+081213 17:09:48  InnoDB: Shutdown completed; log sequence number 0 5261596
+081213 17:09:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081213 17:09:55  InnoDB: Started; log sequence number 0 5261596
+081213 17:09:55 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081213 18:53:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081215 18:53:35  InnoDB: Starting shutdown...
+081215 18:53:37  InnoDB: Shutdown completed; log sequence number 0 5270479
+081215 18:53:37 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081215 18:53:43  InnoDB: Started; log sequence number 0 5270479
+081215 18:53:43 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081215 19:32:49 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081215 19:32:49  InnoDB: Starting shutdown...
+081215 19:32:53  InnoDB: Shutdown completed; log sequence number 0 5280218
+081215 19:32:53 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081216 10:59:16  InnoDB: Started; log sequence number 0 5280218
+081216 10:59:16 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081216 11:01:42  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+081216 11:01:44  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5280273.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5280273
+081216 11:01:44  InnoDB: Started; log sequence number 0 5280273
+081216 11:01:45 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081216 14:43:29 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081216 14:43:29  InnoDB: Starting shutdown...
+081216 14:43:32  InnoDB: Shutdown completed; log sequence number 0 5280283
+081216 14:43:32 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081215 14:43:43  InnoDB: Started; log sequence number 0 5280283
+081215 14:43:43 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081215 14:46:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081215 14:46:36  InnoDB: Starting shutdown...
+081215 14:46:39  InnoDB: Shutdown completed; log sequence number 0 5283788
+081215 14:46:39 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081211 14:46:48  InnoDB: Started; log sequence number 0 5283788
+081211 14:46:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081211 14:50:19 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081211 14:50:19  InnoDB: Starting shutdown...
+081211 14:50:21  InnoDB: Shutdown completed; log sequence number 0 5284447
+081211 14:50:21 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081216 14:50:30  InnoDB: Started; log sequence number 0 5284447
+081216 14:50:30 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081216 14:56:48 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081216 14:56:48  InnoDB: Starting shutdown...
+081216 14:56:53  InnoDB: Shutdown completed; log sequence number 0 5284457
+081216 14:56:53 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081217 10:28:12  InnoDB: Started; log sequence number 0 5284457
+081217 10:28:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081217 11:10:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081217 11:10:42  InnoDB: Starting shutdown...
+081217 11:10:46  InnoDB: Shutdown completed; log sequence number 0 5284467
+081217 11:10:46 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081216 11:10:56  InnoDB: Started; log sequence number 0 5284467
+081216 11:10:56 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081216 14:38:31 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081216 14:38:31  InnoDB: Starting shutdown...
+081216 14:38:36  InnoDB: Shutdown completed; log sequence number 0 5293245
+081216 14:38:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081216 20:14:04  InnoDB: Started; log sequence number 0 5293245
+081216 20:14:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081216 20:47:49 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081216 20:47:49  InnoDB: Starting shutdown...
+081216 20:47:52  InnoDB: Shutdown completed; log sequence number 0 5306100
+081216 20:47:52 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081217 20:48:06  InnoDB: Started; log sequence number 0 5306100
+081217 20:48:07 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081217 20:48:42  InnoDB: Started; log sequence number 0 5306100
+081217 20:48:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081217 21:26:33 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081217 21:26:33  InnoDB: Starting shutdown...
+081217 21:26:35  InnoDB: Shutdown completed; log sequence number 0 5345231
+081217 21:26:35 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081218 11:30:12  InnoDB: Started; log sequence number 0 5345231
+081218 11:30:14 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081218 13:06:40  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+081218 13:06:43  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5346377.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5346377
+081218 13:06:45  InnoDB: Started; log sequence number 0 5346377
+081218 13:06:47 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081218 16:41:40 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081218 16:41:40  InnoDB: Starting shutdown...
+081218 16:41:42  InnoDB: Shutdown completed; log sequence number 0 5384063
+081218 16:41:42 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081223 12:32:34  InnoDB: Started; log sequence number 0 5384063
+081223 12:32:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081223 18:42:28 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081223 18:42:28  InnoDB: Starting shutdown...
+081223 18:42:30  InnoDB: Shutdown completed; log sequence number 0 5384112
+081223 18:42:30 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+081218 14:48:37  InnoDB: Started; log sequence number 0 5384112
+081218 14:48:40 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+081218 16:12:25 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+081218 16:12:25  InnoDB: Starting shutdown...
+081218 16:12:27  InnoDB: Shutdown completed; log sequence number 0 5384758
+081218 16:12:27 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090105 11:13:39  InnoDB: Started; log sequence number 0 5384758
+090105 11:13:41 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090105 15:47:49  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090105 15:47:54  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 5486540.
+InnoDB: Doing recovery: scanned up to log sequence number 0 5486540
+090105 15:47:57  InnoDB: Started; log sequence number 0 5486540
+090105 15:48:02 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090105 18:21:03 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090105 18:21:03  InnoDB: Starting shutdown...
+090105 18:21:04  InnoDB: Shutdown completed; log sequence number 0 5486550
+090105 18:21:04 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+090106 18:00:48  InnoDB: Started; log sequence number 0 5486550
+090106 18:01:12 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+InnoDB: Error: log file .\ib_logfile0 is of different size 0 10485760 bytes
+InnoDB: than specified in the .cnf file 0 5242880 bytes!
+090106 18:06:23 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090106 18:06:29 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:06:29 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:06:36 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:06:36 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:07:09  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: File name .\ib_logfile0
+InnoDB: File operation call: 'open'.
+InnoDB: Cannot continue operation.
+090106 18:07:12 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:07:12 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:07:21 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:07:21 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+InnoDB: Error: log file .\ib_logfile0 is of different size 0 10485760 bytes
+InnoDB: than specified in the .cnf file 0 5242880 bytes!
+090106 18:09:36 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090106 18:09:39 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:09:39 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:09:49 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:09:49 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:10:05 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:10:05 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:10:15 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Normal shutdown
+
+090106 18:10:15 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Shutdown complete
+
+InnoDB: Error: log file .\ib_logfile0 is of different size 0 10485760 bytes
+InnoDB: than specified in the .cnf file 0 5242880 bytes!
+090106 18:11:10 [Note] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090106 18:11:13 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:11:13 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:12:03 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:12:03 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:13:10 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:13:10 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\impuestospred.frm'
+090106 18:13:39 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:13:39 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:13:51 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:13:51 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\usuarios.frm'
+090106 18:14:50 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\aguapotable.frm'
+090106 18:14:50 [ERROR] C:\TesoreriaMunicipal\mysql\bin\mysqld.exe: Incorrect information in file: '.\tesoreria\aguapotable.frm'

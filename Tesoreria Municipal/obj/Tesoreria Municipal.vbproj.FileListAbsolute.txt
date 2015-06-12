@@ -1,0 +1,169 @@
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria Municipal.exe
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria Municipal.xml
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria Municipal.pdb
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Tesoreria Municipal.exe
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Tesoreria Municipal.pdb
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Tesoreria Municipal.xml
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\AguaPotable.exe
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Contribuyentes.exe
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\DevComponents.DotNetBar2.dll
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\AguaPotable.pdb
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\AguaPotable.xml
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\DevComponents.DotNetBar2.xml
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Contribuyentes.pdb
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Contribuyentes.xml
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\en-US\Contribuyentes.resources.dll
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\ResolveAssemblyReference.cache
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria_Municipal.Bienvenidopsc.resources
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria_Municipal.ControlPanelFrm.resources
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria_Municipal.Resources.resources
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria_Municipal.Loginfrm.resources
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria Municipal.vbproj.GenerateResource.Cache
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Tesoreria Municipal.exe.config
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria_Municipal.Configfrm.resources
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\RegistroCivil.exe
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\RegistroCivil.pdb
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\RegistroCivil.xml
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ImpuestoPredial.exe
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ImpuestoPredial.pdb
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ImpuestoPredial.xml
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\RetroVolteo.exe
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\RetroVolteo.pdb
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\RetroVolteo.xml
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Depositos.exe
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\EgresosIngP.exe
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\OtrosIngresos.exe
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Tortilleria.exe
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\OtrosIngresos.pdb
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\OtrosIngresos.xml
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Tortilleria.pdb
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Tortilleria.xml
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Depositos.pdb
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Depositos.xml
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\EgresosIngP.pdb
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\EgresosIngP.xml
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ReporteGeneral.exe
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ReporteGeneral.pdb
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ReporteGeneral.xml
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Respaldos.exe
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Respaldos.pdb
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Respaldos.xml
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria_Municipal.UsuariosFrm.resources
+C:\DOCUMENTOS\Felipe\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria_Municipal.BorrarDatosFrm.resources
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Tesoreria Municipal.exe.config
+C:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria Municipal.exe
+C:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria Municipal.xml
+C:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria Municipal.pdb
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Tesoreria Municipal.exe
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Tesoreria Municipal.pdb
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Tesoreria Municipal.xml
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\AguaPotable.exe
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Contribuyentes.exe
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Depositos.exe
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\EgresosIngP.exe
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ImpuestoPredial.exe
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\OtrosIngresos.exe
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\RegistroCivil.exe
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ReporteGeneral.exe
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Respaldos.exe
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\RetroVolteo.exe
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Tortilleria.exe
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\OtrosIngresos.pdb
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\OtrosIngresos.xml
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\RegistroCivil.pdb
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\RegistroCivil.xml
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Contribuyentes.pdb
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Contribuyentes.xml
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Tortilleria.pdb
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Tortilleria.xml
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\AguaPotable.pdb
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\AguaPotable.xml
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Depositos.pdb
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Depositos.xml
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ReporteGeneral.pdb
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ReporteGeneral.xml
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Respaldos.pdb
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Respaldos.xml
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\EgresosIngP.pdb
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\EgresosIngP.xml
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ImpuestoPredial.pdb
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ImpuestoPredial.xml
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\RetroVolteo.pdb
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\RetroVolteo.xml
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\en-US\Contribuyentes.resources.dll
+C:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\ResolveAssemblyReference.cache
+C:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria_Municipal.Bienvenidopsc.resources
+C:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria_Municipal.BorrarDatosFrm.resources
+C:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria_Municipal.Configfrm.resources
+C:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria_Municipal.ControlPanelFrm.resources
+C:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria_Municipal.Resources.resources
+C:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria_Municipal.Loginfrm.resources
+C:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria_Municipal.UsuariosFrm.resources
+C:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria Municipal.vbproj.GenerateResource.Cache
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ImprimirFactura.exe
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ImprimirFactura.pdb
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ImprimirFactura.xml
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Facturas.exe
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Facturas.pdb
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Facturas.xml
+C:\Tesoreria Municipal\Tesoreria Municipal\bin\Release\Tesoreria Municipal.exe.config
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Tesoreria Municipal.exe.config
+E:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria Municipal.exe
+E:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria Municipal.xml
+E:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria Municipal.pdb
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Tesoreria Municipal.exe
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Tesoreria Municipal.pdb
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Tesoreria Municipal.xml
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\AguaPotable.exe
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Contribuyentes.exe
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Depositos.exe
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\EgresosIngP.exe
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Facturas.exe
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ImpuestoPredial.exe
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\OtrosIngresos.exe
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\RegistroCivil.exe
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ReporteGeneral.exe
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Respaldos.exe
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\RetroVolteo.exe
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Tortilleria.exe
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ImprimirFactura.exe
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\RegistroCivil.pdb
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\RegistroCivil.xml
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Tortilleria.pdb
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Tortilleria.xml
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Facturas.pdb
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Facturas.xml
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\EgresosIngP.pdb
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\EgresosIngP.xml
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ImprimirFactura.pdb
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ImprimirFactura.xml
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\OtrosIngresos.pdb
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\OtrosIngresos.xml
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Depositos.pdb
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Depositos.xml
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\AguaPotable.pdb
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\AguaPotable.xml
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\RetroVolteo.pdb
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\RetroVolteo.xml
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Contribuyentes.pdb
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Contribuyentes.xml
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ReporteGeneral.pdb
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ReporteGeneral.xml
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ImpuestoPredial.pdb
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\ImpuestoPredial.xml
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Respaldos.pdb
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\Respaldos.xml
+E:\Tesoreria Municipal\Tesoreria Municipal\bin\Debug\en-US\Contribuyentes.resources.dll
+E:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\ResolveAssemblyReference.cache
+E:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria_Municipal.Bienvenidopsc.resources
+E:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria_Municipal.BorrarDatosFrm.resources
+E:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria_Municipal.Configfrm.resources
+E:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria_Municipal.ControlPanelFrm.resources
+E:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria_Municipal.Resources.resources
+E:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria_Municipal.Loginfrm.resources
+E:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria_Municipal.UsuariosFrm.resources
+E:\Tesoreria Municipal\Tesoreria Municipal\obj\Debug\Tesoreria Municipal.vbproj.GenerateResource.Cache

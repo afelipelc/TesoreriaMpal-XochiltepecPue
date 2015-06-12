@@ -1,0 +1,26 @@
+If Adeudo = 0 Then
+                'If AnoPag = Now.Year And MesPag = Now.Month - 1 Then
+                If Now.Day >= DiaCobroMes Then
+                    CobrarAguafrm.IdToma = Val(Me.DatosDtg(0, Me.DatosDtg.CurrentRow.Index).Value.ToString)
+                    CobrarAguafrm.Comando = "Nuevo"
+                    CobrarAguafrm.Otrocom = ""
+                    CobrarAguafrm.ShowDialog()
+                    'SQLCnn.Close()
+                    If Cobrado = True Then
+                        Me.DatosDtg.DataSource = Nothing
+                        Me.DatosDtg.Rows.Clear()
+                    End If
+                    Exit Sub
+                Else
+                    If MessageBox.Show("La toma numero: " & Me.DatosDtg.Item(0, DatosDtg.CurrentRow.Index).Value.ToString & ", No presenta adeudos" & Chr(13) & "¿Desea abrir el último pago realizado de esta toma?", "Agua Potable", MessageBoxButtons.YesNo, MessageBoxIcon.Question) = Windows.Forms.DialogResult.Yes Then
+                        CobrarAguafrm.IdToma = Val(Me.DatosDtg(0, Me.DatosDtg.CurrentRow.Index).Value.ToString)
+                        CobrarAguafrm.AnoPagado = AnoPag
+                        CobrarAguafrm.Comando = "Abrir"
+                        CobrarAguafrm.Otrocom = ""
+                        CobrarAguafrm.ShowDialog()
+                        Exit Sub
+                    Else
+                        Exit Sub
+                    End If
+                End If
+            End If
